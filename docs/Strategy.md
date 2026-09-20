@@ -1,4 +1,8 @@
 - Don't start with: Where can I enter?
 - First: Understand what is happening.
   - What market situation am I observing?
-  - What are the current participants doing?
+  - Who are the current participants?
+  - What are they trying to do?
+    - Buyers may be trying to push price higher.
+    - Sellers may be trying to push price lower.
+    - Larger participants may be trying to build or exit positions.
