@@ -31,3 +31,6 @@
   - How is price leaving the last balanced range?
     - Slowly and weakly?
     - Quickly and decisively?
+  - Which side is making the effort?
+    - Buyers?
+    - Sellers?
