@@ -23,3 +23,6 @@
   - Can failed participants become trapped?
     - Failed sellers can become trapped if price moves up.
     - Failed buyers can become trapped if price moves down.
+  - Can trapped participants accelerate the opposite move?
+    - Trapped sellers must buy to exit, which can push price up.
+    - Trapped buyers must sell to exit, which can push price down.
