@@ -28,3 +28,6 @@
     - Trapped buyers must sell to exit, which can push price down.
   - Where was the last balanced range?
     - Look for the price area where the market spent time trading repeatedly.
+  - How is price leaving the last balanced range?
+    - Slowly and weakly?
+    - Quickly and decisively?
