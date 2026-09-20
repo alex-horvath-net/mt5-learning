@@ -2,7 +2,7 @@
 - First: Understand what is happening.
   - What market situation am I observing?
     - Is the market balanced?
-    - Is price moving away from value?
+    - Is price moving away from balanced value?
     - Is one side becoming more active than the other?
   - Who are the current participants?
     - Buyers.
