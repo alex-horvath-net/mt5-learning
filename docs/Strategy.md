@@ -1,44 +1,7 @@
 - Don't start with: Where can I enter?
-- First: Understand what is happening.
-  - What market situation am I observing?
-    - Is the market balanced?
-    - Is price moving away from balanced value?
-    - Is one side becoming more active than the other?
-  - Who are the current participants?
-    - Buyers / Sellers.
-    - Retail traders / Larger institutions.
-  - What are they trying to do?
-    - Buyers may be trying to push price higher.
-    - Sellers may be trying to push price lower.
-    - Larger participants may be trying to build or exit positions.
-  - What limitations do they have?
-    - Larger participants may need enough liquidity to build or exit positions.
-      - Liquidity = enough opposite-side orders available to execute a large trade without moving price much.
-  - Where might participants become forced to act?
-    - A long trader may be forced to sell to exit.
-    - A short trader may be forced to buy to exit.
-  - Is one side trying hard but failing to move price?
-    - Many eager sellers + little downward movement = sellers may be failing.
-    - Many eager buyers + little upward movement = buyers may be failing.
-  - Can failed participants become trapped?
-    - Failed sellers can become trapped if price moves up.
-    - Failed buyers can become trapped if price moves down.
-  - Can trapped participants accelerate the opposite move?
-    - Trapped sellers must buy to exit, which can push price up.
-    - Trapped buyers must sell to exit, which can push price down.
-  - Where was the last balanced range?
-    - Look for the price area where the market spent time trading repeatedly.
-  - How is price leaving the last balanced range?
-    - Slowly and weakly?
-    - Quickly and decisively?
-  - Which side is making the effort?
-    - Buyers?
-    - Sellers?
-  - Is the effort succeeding or failing?
-    - Strong seller effort + clear downward movement = sellers are succeeding.
-    - Strong seller effort + little downward movement = sellers are failing.
-    - Strong buyer effort + clear upward movement = buyers are succeeding.
-    - Strong buyer effort + little upward movement = buyers are failing.
+
+## Before the market opens
+
 - Do the analysis before the market opens.
 - Classify the market environment:
   - Value up.
@@ -48,3 +11,51 @@
   - Higher timeframe = each candle represents more time.
   - 1-hour.
   - 4-hour.
+
+## Understand what is happening
+
+- What market situation am I observing?
+  - Is the market balanced?
+  - Is price moving away from balanced value?
+  - Is one side becoming more active than the other?
+- Where was the last balanced range?
+  - Look for the price area where the market spent time trading repeatedly.
+- How is price leaving the last balanced range?
+  - Slowly and weakly?
+  - Quickly and decisively?
+
+## Understand the participants
+
+- Who are the current participants?
+  - Buyers / Sellers.
+  - Retail traders / Larger institutions.
+- What are they trying to do?
+  - Buyers may be trying to push price higher.
+  - Sellers may be trying to push price lower.
+  - Larger participants may be trying to build or exit positions.
+- What limitations do they have?
+  - Larger participants may need enough liquidity to build or exit positions.
+    - Liquidity = enough opposite-side orders available to execute a large trade without moving price much.
+- Where might participants become forced to act?
+  - A long trader may be forced to sell to exit.
+  - A short trader may be forced to buy to exit.
+
+## Read effort and failure
+
+- Which side is making the effort?
+  - Buyers?
+  - Sellers?
+- Is the effort succeeding or failing?
+  - Strong seller effort + clear downward movement = sellers are succeeding.
+  - Strong seller effort + little downward movement = sellers are failing.
+  - Strong buyer effort + clear upward movement = buyers are succeeding.
+  - Strong buyer effort + little upward movement = buyers are failing.
+- Is one side trying hard but failing to move price?
+  - Many eager sellers + little downward movement = sellers may be failing.
+  - Many eager buyers + little upward movement = buyers may be failing.
+- Can failed participants become trapped?
+  - Failed sellers can become trapped if price moves up.
+  - Failed buyers can become trapped if price moves down.
+- Can trapped participants accelerate the opposite move?
+  - Trapped sellers must buy to exit, which can push price up.
+  - Trapped buyers must sell to exit, which can push price down.
