@@ -13,6 +13,7 @@
     - Larger participants may be trying to build or exit positions.
   - What limitations do they have?
     - Larger participants may need enough liquidity to build or exit positions.
+      - Liquidity = enough opposite-side orders available to execute a large trade without moving price much.
   - Where might participants become forced to act?
     - A long trader may be forced to sell to exit.
     - A short trader may be forced to buy to exit.
