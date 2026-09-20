@@ -44,3 +44,7 @@
   - Value up.
   - Value down.
   - Sideways.
+- Use higher timeframes to classify the environment.
+  - Higher timeframe = each candle represents more time.
+  - 1-hour.
+  - 4-hour.
