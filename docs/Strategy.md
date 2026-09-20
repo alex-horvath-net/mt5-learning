@@ -14,8 +14,6 @@
     - Sellers may be trying to push price lower.
     - Larger participants may be trying to build or exit positions.
   - What limitations do they have?
-    - A long trader may eventually need to sell if price moves against them.
-    - A short trader may eventually need to buy back if price moves against them.
     - Larger participants may need enough liquidity to build or exit positions.
   - Where might participants become forced to act?
     - A long trader may be forced to sell to exit.
