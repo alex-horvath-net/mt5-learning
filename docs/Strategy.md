@@ -20,3 +20,6 @@
   - Where might participants become forced to act?
     - A long trader may be forced to sell to exit.
     - A short trader may be forced to buy to exit.
+  - Is one side trying hard but failing to move price?
+    - Many eager sellers + little downward movement = sellers may be failing.
+    - Many eager buyers + little upward movement = buyers may be failing.
