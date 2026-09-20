@@ -40,3 +40,7 @@
     - Strong buyer effort + clear upward movement = buyers are succeeding.
     - Strong buyer effort + little upward movement = buyers are failing.
 - Do the analysis before the market opens.
+- Classify the market environment:
+  - Value up.
+  - Value down.
+  - Sideways.
