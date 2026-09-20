@@ -20,3 +20,6 @@
   - Is one side trying hard but failing to move price?
     - Many eager sellers + little downward movement = sellers may be failing.
     - Many eager buyers + little upward movement = buyers may be failing.
+  - Can failed participants become trapped?
+    - Failed sellers can become trapped if price moves up.
+    - Failed buyers can become trapped if price moves down.
