@@ -5,10 +5,8 @@
     - Is price moving away from balanced value?
     - Is one side becoming more active than the other?
   - Who are the current participants?
-    - Buyers.
-    - Sellers.
-    - Retail traders.
-    - Larger institutions.
+    - Buyers / Sellers.
+    - Retail traders / Larger institutions.
   - What are they trying to do?
     - Buyers may be trying to push price higher.
     - Sellers may be trying to push price lower.
