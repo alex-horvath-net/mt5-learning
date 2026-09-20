@@ -39,3 +39,4 @@
     - Strong seller effort + little downward movement = sellers are failing.
     - Strong buyer effort + clear upward movement = buyers are succeeding.
     - Strong buyer effort + little upward movement = buyers are failing.
+- Do the analysis before the market opens.
