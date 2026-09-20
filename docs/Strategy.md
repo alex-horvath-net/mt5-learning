@@ -1,0 +1,4 @@
+- Don't start with: Where can I enter?
+- First: Understand what is happening!
+  - What market situation am I observing, 
+  - What are the current participants doing?
