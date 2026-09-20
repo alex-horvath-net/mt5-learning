@@ -1,664 +1,1169 @@
-# Trading Process
+# Chris Creamer's Trading Process
 
-> Based on Chris Creamer's process from the summarized video.
+> Based on the original IQ Capital transcript in `docs/IQCapital.md`.
 
-## Core principle
+## Core idea
 
-- Don't start with: Where can I enter?
-- First understand:
-  - Environment.
-  - Location.
-  - Confirmation.
-  - Execution.
-- The entry is only the final part of the decision.
+Chris does not start with an entry setup.
+
+He first builds context around the trade idea, then uses the entry setup only to confirm or deny whether that idea is valid.
+
+Practical sequence:
+
+```text
+Environment / context
+        ↓
+Location
+        ↓
+Confirmation
+        ↓
+Entry
+        ↓
+Trade management / exit
+```
+
+The entry is only the final part of the decision.
 
 ---
 
-# 1. Before the market opens
+# A. Mental model
 
-## 1.1 Classify the market environment
+## A.1 Market as an auction
 
-- Do the analysis before the market opens.
-- Use higher timeframes to classify the environment.
-  - Higher timeframe = each candle represents more time.
-  - 1-hour.
-  - 4-hour.
-- Consider:
-  - What the current week is doing.
-  - What the previous week did.
-- Look at market structure:
-  - Higher highs.
-  - Higher lows.
-  - Where value is being established.
-  - Whether value is progressively forming higher or lower.
-- Classify the environment:
-  - Value up.
-  - Value down.
-  - Sideways.
+- The market is an auction.
+- Buyers and sellers build positions while the market searches for the value of the asset.
+- When buyers and sellers are comfortable:
+  - A defined range can form.
+  - Positions are built inside the range.
+  - Value is being built.
+  - Nobody is necessarily being forced to participate.
+- Chris is generally not interested in trading the balanced condition itself.
+- He becomes interested when one side becomes more aggressive and starts forcing participation.
 
-## 1.2 Find the last balanced range
+## A.2 Forced participation
 
-- Where was the last balanced range?
-  - Look for the price area where the market spent time trading repeatedly.
-- Is price still inside that balanced range?
-- Is price moving away from balanced value?
-- How is price leaving the last balanced range?
-  - Slowly and weakly?
-  - Quickly and decisively?
-- Is one side becoming more active than the other?
+- A trader whose position moves against them has limited choices:
+  - Defend or add to the position.
+  - Exit.
+- To exit a long position:
+  - The trader must sell.
+- To exit a short position:
+  - The trader must buy.
+- Chris looks for participation near the edges of the auction that fails.
+- Failed participants can become trapped / offside.
+- Their exits can accelerate price in the opposite direction.
 
-## 1.3 Understand the participants
+## A.3 Effort versus result
 
-- Who are the current participants?
-  - Buyers / Sellers.
-  - Retail traders / Larger institutions.
-- What are they trying to do?
-  - Buyers may be trying to push price higher.
-  - Sellers may be trying to push price lower.
-  - Larger participants may be trying to build or exit positions.
-- What limitations do they have?
-  - Larger participants may need enough liquidity to build or exit positions.
-    - Liquidity = enough opposite-side orders available to execute a large trade without moving price much.
-- Where might participants become forced to act?
-  - A long trader may be forced to sell to exit.
-  - A short trader may be forced to buy to exit.
+Chris keeps asking:
 
-## 1.4 Read effort and failure
-
+- Where is value being built?
+- How is price moving out of it?
 - Which side is making the effort?
-  - Buyers?
-  - Sellers?
-- Is the effort succeeding or failing?
-  - Strong seller effort + clear downward movement = sellers are succeeding.
-  - Strong seller effort + little downward movement = sellers are failing.
-  - Strong buyer effort + clear upward movement = buyers are succeeding.
-  - Strong buyer effort + little upward movement = buyers are failing.
-- Is one side trying hard but failing to move price?
-  - Many eager sellers + little downward movement = sellers may be failing.
-  - Many eager buyers + little upward movement = buyers may be failing.
-- Can failed participants become trapped?
-  - Failed sellers can become trapped if price moves up.
-  - Failed buyers can become trapped if price moves down.
-- Can trapped participants accelerate the opposite move?
-  - Trapped sellers must buy to exit, which can push price up.
-  - Trapped buyers must sell to exit, which can push price down.
+- Is that effort producing price progression?
+- Who is succeeding?
+- Who is failing?
 
-## 1.5 Check the gamma environment
+Core idea:
 
-- Use GEX to understand the likely volatility regime.
-- Do not interpret:
-  - Positive gamma = bullish.
-  - Negative gamma = bearish.
-- Positive gamma:
-  - Dealers may sell into rips.
-  - Dealers may buy into dips.
-  - Volatility can be dampened.
-- Negative gamma:
-  - Dealers may buy into rips.
-  - Dealers may sell into dips.
-  - Volatility can be amplified.
-- Note:
-  - Call wall.
-  - Put wall.
-  - Gamma flip zone.
-- Use these as environment/context, not automatic trade signals.
+```text
+Strong effort + expected price progression
+= that side is succeeding
 
-## 1.6 Prepare possible trading locations
+Strong effort + little price progression
+= that side may be failing
+```
 
-- Before execution starts, identify potential locations where you would want to participate.
-- The goal is to have structure before execution.
+## A.4 Different participants
+
+The market contains participants with different:
+
+- Goals.
+- Sizes.
+- Constraints.
+- Behaviours.
+
+Examples Chris mentions:
+
+- Retail traders.
+- Large institutions / participants that need to fill large size.
+
+> Learning note: Liquidity means enough opposite-side orders are available to execute size without moving price too much. This definition is included for clarity; Chris does not explicitly define liquidity this way in the podcast.
 
 ---
 
-# 2. Location — Where do I want to do business?
+# B. Trading process
 
-## 2.1 Use premium and discount
+# 1. Environment — before the market opens
 
-- Ask:
-  - Where do I want to do business?
-- If the larger structure is moving up:
-  - Do not simply buy near an expensive upper edge.
-  - Prefer a pullback into discount.
-- Value-area relationship:
-  - Below value area = discount.
-  - Above value area = premium.
-- Do not try to call the top simply because price is high.
+Chris does this work before the market opens.
 
-## 2.2 Look for inefficient areas
+He wants scenarios prepared before price is moving quickly.
 
-- Look at how price previously moved through the area.
-- If price moved through very quickly:
-  - Little time was spent there.
-  - Relatively little business was conducted.
-  - The area can be relatively inefficient.
-- Look for low-volume nodes.
-  - They also show areas where relatively little business occurred.
-- Use these to help define the location.
+## 1.1 Classify value structure
 
-## 2.3 Refine the location with Fibonacci
+Determine whether the market is:
 
-- In the long example:
-  - Draw Fibonacci from swing low to swing high.
-- Watch:
-  - 0.705.
-  - 0.788.
-  - 0.886.
-- Prefer the Fibonacci zone outside the value area.
-- If the Fibonacci zone is inside value, Chris generally does not want it.
-- Require some internal structure:
-  - A recognizable swing point.
-  - Not just a perfectly straight move.
+- Value up.
+- Value down.
+- Sideways.
 
-## 2.4 Use 0.886 as an invalidation boundary
+## 1.2 Read higher-timeframe structure
 
-- In the example:
-  - Buyers should regain dominance before price moves beyond 0.886.
-- If price pushes below 0.886 and buyers cannot regain dominance:
-  - Do not take the long trade.
+Use higher timeframes to understand what the market has been doing.
 
-## 2.5 Do not enter just because price reached the location
+Chris specifically mentions:
 
-- A planned box or level does not mean price must respect it.
-- Location creates interest.
-- Confirmation decides whether the trade is actually taken.
+- 1-hour.
+- 4-hour.
+
+He asks:
+
+- What has the current week been doing?
+- What did the previous week do?
+- Are we making higher highs?
+- Are we making higher lows?
+- Where is value being created?
+- Is value being created higher and higher?
+
+## 1.3 Understand the gamma environment
+
+Chris uses GEX to understand the volatility regime.
+
+He specifically says he uses:
+
+- Naive GEX.
+
+For NQ-related analysis he refers to:
+
+- QQQ.
+- NDX.
+
+Do not interpret:
+
+- Positive gamma = bullish.
+- Negative gamma = bearish.
+
+### Positive gamma
+
+Typical dealer behaviour:
+
+- Sell into rips.
+- Buy into dips.
+
+Effect:
+
+- Volatility can be dampened.
+- Breakouts can fail more often.
+
+### Negative gamma
+
+Typical dealer behaviour:
+
+- Buy into rips.
+- Sell into dips.
+
+Effect:
+
+- Volatility can be amplified.
+- Moves can be bigger and faster.
+
+Negative gamma does **not** mean price must go down.
+
+## 1.4 Mark GEX reference levels
+
+Chris also wants to know:
+
+- Call wall.
+- Put wall.
+- Gamma flip zone.
+
+The gamma flip is the line where the environment begins moving between positive and negative gamma territory.
+
+He does **not** primarily use these levels as automatic bounce signals.
+
+He uses them to understand the environment.
+
+## 1.5 Build scenarios before execution
+
+Chris does not want to build the whole trade idea while price is moving quickly.
+
+He wants:
+
+> Structure before clicking buttons.
 
 ---
 
-# 3. Wait for price to reach the planned location
+# 2. Location — where do I want to do business?
 
-- Do nothing until price reaches the planned area.
-- Once price reaches the area:
-  - Move from location analysis to order-flow confirmation.
+The second part of Chris's process is location.
+
+His question is:
+
+> Where do I want to do business?
+
+## 2.1 Follow the larger structure
+
+If the market is in a value-up structure:
+
+- Chris generally does not want to fight that structure.
+- He does not want to buy at an expensive upper edge.
+- He waits for a pullback.
+
+He also does not want to:
+
+- Call the top.
+- Call the bottom.
+
+## 2.2 Premium and discount
+
+Using the value area:
+
+- Below value area = discount.
+- Above value area = premium.
+
+In a value-up structure:
+
+- Chris prefers waiting for price to move into discount.
+
+## 2.3 Inefficient areas
+
+If price moved through an area very quickly:
+
+- Little time was spent there.
+- Little business was conducted there.
+
+Chris treats this as a relatively inefficient part of the move.
+
+## 2.4 Low-volume nodes
+
+A low-volume node means:
+
+- Not much volume traded there.
+- Not much business was transacted there.
+
+Chris can use this together with location.
+
+## 2.5 Fibonacci discount zone
+
+In the long example, Chris draws Fibonacci:
+
+```text
+Swing low
+   ↓
+Swing high
+```
+
+He watches:
+
+- 0.705.
+- 0.788.
+- 0.886.
+
+Together these form the zone he is interested in.
+
+## 2.6 Fibonacci must be outside value
+
+Chris does not want the Fibonacci zone sitting inside value.
+
+He wants it:
+
+- Outside the value area.
+- In discount for the long example.
+
+## 2.7 Internal structure
+
+Chris wants a recognizable swing point before the move into discount.
+
+He does not require something complex.
+
+He simply wants:
+
+- A swing point.
+- Normal pullback / breathing structure.
+
+## 2.8 0.886 invalidation
+
+Chris treats 0.886 as very important.
+
+If the long setup is going to work in the way he trades it:
+
+- Buyers should regain dominance before price moves beyond 0.886.
+
+If price goes below 0.886 and buyers cannot shift dominance back upward:
+
+- He does not take the trade.
+
+Chris connects this to the expected failed auction lower out of value.
+
+## 2.9 Location is not enough
+
+A box or level on the chart does not mean price must respect it.
+
+Location only tells Chris:
+
+> This is where I may want to do business.
+
+He still needs confirmation.
 
 ---
 
-# 4. Confirmation through order flow
+# 3. Wait for price to reach location
 
-## 4.1 Read how the candle was created
+Do not enter just because the setup exists conceptually.
 
-- A normal candlestick shows:
-  - Open.
-  - High.
-  - Low.
-  - Close.
-- Chris describes this as the scoreboard:
-  - It shows the final result.
-- Order flow helps show how that result was created.
-- Use:
-  - Volume profile.
-  - Delta / bid-by-ask information.
+Wait for price to reach the planned area.
 
-## 4.2 Look for seller failure in the long example
+At that point:
 
-When price reaches discount:
-
-- Look for:
-  - Concentrated volume near the bottom.
-  - POC near the extreme.
-  - Strongly negative delta.
-  - Eager sellers.
-- Then ask:
-  - Are those sellers actually moving price lower?
-- If there is strong selling effort but little downward progress:
-  - Sellers may be failing.
-  - This can indicate absorption.
-
-## 4.3 Absorption is not enough
-
-- Absorption does not automatically mean reversal.
-- Do not enter only because absorption appears.
-- Wait for a shift of dominance.
+- Move from location analysis to confirmation.
 
 ---
 
-# 5. Wait for the shift of dominance
+# 4. Confirmation — order flow
+
+Chris becomes granular only after price reaches location.
+
+## 4.1 Execution timeframes
+
+Chris says:
+
+- He trades mainly on 5-minute candles.
+- He looks at the hourly.
+- He looks at the 15-minute.
+- Sometimes he uses the 1-minute.
+
+His order-flow confirmation is mainly described using 5-minute candles.
+
+## 4.2 What normal candles show
+
+A normal candlestick shows:
+
+- Open.
+- High.
+- Low.
+- Close.
+
+Chris calls this the:
+
+> Scoreboard.
+
+It shows the result of the auction.
+
+## 4.3 What order flow adds
+
+Chris wants to see how that result was created.
+
+He uses:
+
+- Volume profile candles.
+- Delta / bid-by-ask candles.
+
+## 4.4 Long example — seller participation in discount
+
+When price enters discount, Chris looks for seller participation at the extreme.
+
+He wants to see things such as:
+
+- Volume concentrated near the lower extreme / wick.
+- POC at the extreme.
+- Negative delta.
+- Aggressive sellers.
+
+Negative delta means:
+
+- More aggressive sellers than aggressive buyers.
+
+## 4.5 Seller aggression without price progression
+
+The important question is not simply:
+
+> Are there sellers?
+
+The question is:
+
+> Are aggressive sellers getting a result?
+
+If sellers are very aggressive but price does not progress lower:
+
+- Their effort is failing.
+- This can indicate absorption.
+
+## 4.6 Absorption is not a reversal signal by itself
+
+Chris explicitly says:
+
+> Absorption does not mean automatic reversal.
+
+Absorption happens frequently.
+
+So he waits for:
+
+- A shift of dominance.
+
+---
+
+# 5. Shift of dominance
 
 In the long example:
 
-1. Sellers become eager in discount.
-2. Their effort fails to create the expected downward progress.
-3. The candle recovers and closes bullish.
-4. The next candle opens and pulls back.
-5. Sellers become eager again.
-6. The second selling attempt fails higher.
-7. Buyer eagerness begins appearing.
-8. Dominance shifts toward buyers.
+1. Price enters discount.
+2. Aggressive sellers appear.
+3. Sellers fail to create meaningful downward price progression.
+4. The candle flips and closes bullish.
+5. The next candle opens.
+6. The next candle pulls back.
+7. Sellers become aggressive again.
+8. That second seller attempt fails higher.
+9. Buyer aggression starts appearing.
+10. Dominance shifts back toward buyers.
 
-- Only then does the long become interesting.
+Only then is Chris interested in going long.
 
 The structure is:
 
 ```text
 Discount
   ↓
-Eager sellers
+Aggressive sellers
   ↓
 Sellers fail
   ↓
-Buyers gain dominance
+Bullish recovery
   ↓
-Another seller attempt fails
+Sellers try again
   ↓
-Bullish confirmation
+Second failure higher
   ↓
-Entry
+Buyer aggression
+  ↓
+Shift of dominance
 ```
 
 ---
 
-# 6. Final confirmation
+# 6. Footprint imbalance
 
-## 6.1 Use footprint imbalance as extra confirmation
+Chris uses a bid-by-ask footprint.
 
-- Chris uses an indicator that highlights roughly 400% or greater imbalance.
-- This shows strong activity from one side.
-- Do not enter simply because the imbalance appears.
-- Wait for another attempt and failure.
+His chart highlights an imbalance at approximately:
 
-## 6.2 Wait for the second failure
+- 400% or more.
 
-- If sellers fail a second time and price flips bullish again:
-  - This provides the entry Chris is looking for.
+He explains the footprint as:
+
+- Right side = aggressive buyers.
+- Left side = aggressive sellers.
+
+When the numbers begin lighting up strongly in the opposite direction:
+
+- Buyer aggression is returning in the long example.
+
+But:
+
+- He does not enter only because the imbalance appears.
+- He waits for the market to try again.
+- He wants the second failure.
 
 ---
 
 # 7. Entry
 
-In the long example, enter only when:
+In the long example, Chris enters when:
 
 - Price reached the correct discount location.
-- Seller failure / absorption appeared.
+- Aggressive sellers appeared.
+- Seller effort failed.
+- Absorption was visible.
 - Dominance shifted toward buyers.
-- Sellers attempted lower again.
-- That second attempt failed higher.
-- Buyer activity returned.
-- Price began flipping bullish.
+- Sellers tried again.
+- The second seller attempt failed higher.
+- Buyer aggression returned.
+- Price flipped bullish again.
 
-Remember:
+The entry is only the final confirmation.
 
-- The trade idea existed before the entry trigger.
-- Order flow is being used to confirm or reject the existing idea.
+The trade idea already existed before the entry trigger.
 
 ---
 
 # 8. Stop loss / invalidation
 
-- Put the stop beyond the failed sellers in the long example.
-- The reasoning is invalidation:
-  - Sellers previously failed to push through the area.
-  - If they later succeed, the premise has changed.
-- The stop belongs where:
-  - Seller failure becomes seller success.
+Chris places the stop on the other side of the failed sellers.
+
+Reason:
+
+- Sellers previously failed to push through the area.
+- If they later push through it successfully, the trade premise is invalidated.
+
+Mental model:
+
+```text
+Seller failure
+      ↓
+If sellers later succeed through that area
+      ↓
+Trade idea is invalid
+```
 
 ---
 
-# 9. Why trapped participants matter
+# 9. Trapped participants after entry
 
-## 9.1 Trapped shorts
+If sellers entered short near the bottom and price starts rising:
 
-- Sellers who entered near the bottom can become offside if price rises.
-- To exit a short position:
-  - They must buy.
-- Their buying can accelerate the upward move.
+- They become offside.
+- They are forced to make a decision.
+- To exit the short, they must buy.
 
-## 9.2 Combine this with the gamma environment
+That buying can accelerate the upward move.
 
-- In negative gamma:
-  - Dealer behaviour may amplify the move.
-- This can combine with trapped positioning:
-  - Trapped shorts buying to exit.
-  - Dealer behaviour amplifying volatility.
-- The move can become very fast.
+## 9.1 Negative gamma can amplify the move
+
+In the long example:
+
+- Trapped shorts may be buying to exit.
+- In negative gamma, dealers may also be buying into the rip.
+
+These forces can combine and make the move faster.
 
 ---
 
-# 10. After entry — reclaim value
+# 10. Reclaim value
 
-- One of the first things Chris wants in the long example:
-  - Buyers reclaim the value area.
-- If buyers are showing strong effort but cannot move back into value:
-  - This is a warning.
-- He may:
-  - Cut the trade.
-  - Move the stop to breakeven.
+After entering the long, one of the first things Chris wants is:
 
-Core question:
+- Buyers reclaim the value area.
 
-- Is the effort succeeding or failing?
+If buyers are aggressive but cannot get back into value:
+
+- That is a warning.
+
+Chris may:
+
+- Cut the trade.
+- Move the stop to breakeven.
+
+Again:
+
+> Effort versus result.
 
 ---
 
 # 11. Trade management
 
-- Keep reading order flow while the position is open.
-- In a long:
-  - Buyer effort should create continued upward progress.
-- If buyers are succeeding:
-  - Trail behind that progress.
-- If buyers show strong effort but price stops progressing:
-  - Treat it as a red flag.
+Chris keeps reading order flow while the position is open.
 
-The same information used for entry is also used for trade management.
+In a long:
+
+- Buyer aggression should create actual upward price progression.
+
+When buyer effort continues producing progress:
+
+- Chris begins trailing behind that aggression.
+
+If buyer aggression is strong but price stops progressing:
+
+- That is a red flag.
+- Price may pull back.
+
+The same order-flow information used for entry is also used for trade management.
 
 ---
 
 # 12. Targets
 
-- For longs:
-  - Target previous swing highs.
-- For shorts:
-  - Target previous swing lows.
-- Also watch:
-  - POC.
-  - Call wall.
-  - Psychological levels.
-  - Clustered orders visible in the book.
-- Keep the larger swing target if appropriate.
-- Trail the stop as price approaches important areas.
+Chris usually targets swing points.
+
+For longs:
+
+- Previous swing highs.
+
+For shorts:
+
+- Previous swing lows.
+
+He may also consider:
+
+- POC.
+- Call wall.
+- Psychological levels.
+- Orders clustering in the book.
+
+He may keep a larger swing target while:
+
+- Trailing the stop as price approaches important areas.
 
 ---
 
-# 13. Risk-to-reward expectations
+# C. Participation filters
 
-- Chris says many of his trades end around:
-  - 1.5R–2R.
-- He does not focus on:
-  - Extremely tight stops.
-  - Bottom-tick entries.
-  - 10R trades.
-  - 20R trades.
-- He values:
-  - More confirmation.
-  - Better execution quality.
-- He accepts that more confirmation can reduce the theoretical R multiple.
+## C.1 Selective participation
+
+Chris considers selective participation one of the trader's biggest advantages.
+
+You do not have to trade.
+
+Order flow caused him to take fewer trades because he mainly uses it to filter trades out.
+
+A typical day may contain:
+
+- 0 trades.
+- 1 trade.
+- 2 trades.
+
+He does not want to make constant back-to-back decisions because it wears down:
+
+- Focus.
+- Mental capacity.
+
+## C.2 Volume participation filter
+
+Chris primarily trades:
+
+- MNQ.
+
+He watches:
+
+- MNQ order flow.
+- 5-minute candles.
+
+He uses approximately:
+
+- 20,000 contracts per 5-minute candle.
+
+When volume drops below that:
+
+- Participation is dying.
+- The environment becomes less attractive for the move he wants.
+
+He avoids:
+
+- Slow grinds.
+- Tapering volume.
+- Periods where little business is being conducted.
+
+He says this is part of the reason he mainly trades:
+
+- The first 1.5 hours of the New York open.
+
+He sometimes trades:
+
+- Asia session.
+
+## C.3 MNQ versus NQ
+
+Chris acknowledges that some traders tell him to use NQ order flow.
+
+He says:
+
+- He uses MNQ.
+- It works for him.
+
+## C.4 News filter
+
+Chris says he would normally take his valid setup, unless something exceptional is happening.
+
+One example he gives:
+
+- News coming out right before price reaches the area.
+
+So important nearby news can be a reason not to take an otherwise valid setup.
 
 ---
 
-# 14. Selective participation
+# D. Risk and performance characteristics
 
-- You do not have to trade.
-- Sometimes the best decision is:
-  - Do nothing.
-- Order flow should help filter trades out, not force more trades.
-- A typical day might have:
-  - 0 trades.
-  - 1 trade.
-  - 2 trades.
-- Avoid constantly scalping back and forth.
-- Prefer a few calculated decisions.
+## D.1 Typical risk-to-reward
+
+Chris says his trades often end around:
+
+- 1.5R–2R.
+
+He does not focus on:
+
+- Bottom-tick entries.
+- Tiny stops for screenshots.
+- 10R trades.
+- 20R trades.
+
+His view:
+
+> He wants to be right, not look cool.
+
+Extra confirmation may reduce theoretical R, but he accepts that.
+
+## D.2 Reported performance
+
+Chris reports that his results typically fluctuate around:
+
+- Win rate: 60–65%.
+- Profit factor: approximately 1.8.
+
+These are his reported results, not guarantees.
+
+## D.3 Prop-firm context
+
+Chris explains that 1.5R can fit prop-firm constraints.
+
+His example:
+
+- $2,000 drawdown.
+- $3,000 profit target.
+
+That relationship is approximately:
+
+- 1.5R.
 
 ---
 
-# 15. Participation filter
+# E. Execution discipline
 
-- Chris primarily trades MNQ.
-- He watches five-minute candles.
-- He uses approximately 20,000 contracts per five-minute candle as a participation threshold.
-- Below that:
-  - Participation may be dying.
-- Avoid:
-  - Tapering volume.
-  - Slow grinding price.
-  - Periods where relatively little business is being conducted.
-- This is one reason he mainly trades around the first 1.5 hours of the New York open.
+## E.1 A-game / B-game / C-game
 
----
+Chris categorizes sessions as:
 
-# 16. Judge execution, not only P&L
+- A-game.
+- B-game.
+- C-game.
 
-## 16.1 A-game / B-game / C-game
+These categories are not based on P&L.
 
-- These categories describe execution quality.
-- They are not determined by P&L.
-- Consistency comes from reducing destructive C-game sessions.
+They are based on:
 
-## 16.2 Good loss
+- How well he executed.
+
+His central idea:
+
+> Back-end optimization, not front-end optimization.
+
+You cannot control:
+
+- How many A+ setups appear.
+
+You can control:
+
+- Unnecessary losses.
+- Bad decisions.
+- Destructive C-game sessions.
+
+## E.2 Good loss
 
 A good loss means:
 
 - The setup was valid.
 - The process was followed.
 - No hesitation.
-- No chasing.
+- No chase.
 - No FOMO.
 - No premature entry.
 - Execution was correct.
 
-A good trade can still lose.
+If the trade loses anyway:
 
-## 16.3 Bad loss
+- That is normal variance in a probabilistic environment.
 
-A bad loss means:
+## E.3 Bad trade / bad loss
 
-- The process was bent because you wanted to participate.
-- Example:
-  - Price reaches discount.
-  - Seller failure and dominance shift are missing.
-  - You buy anyway because you think price should rise.
-- Even if that trade wins:
-  - It is still a bad trade because it reinforces bad behaviour.
+A bad trade occurs when the process is bent because the trader wants to participate.
 
----
+Chris's example:
 
-# 17. Prevent C-game
+- Price reaches discount.
+- Seller absorption is missing.
+- Dominance shift is missing.
+- The trader buys anyway because they think price should rise.
 
-- A bad trade can become:
-  - Loss.
-  - Frustration.
-  - Desire to recover money.
-  - More rule breaking.
-  - Tilt.
-  - Account damage.
-- Do not only analyse the final catastrophic trade.
-- Find what happened before the tilt.
-- Identify the sequence that led to the failure.
+That is:
 
----
+- Anticipation instead of confirmation.
 
-# 18. Rules must create actions
+Even if the trade wins:
 
-- Vague rules are not enough:
-  - Don't overtrade.
-  - Don't oversize.
-- A useful rule must be:
-  - Specific.
-  - Personal.
-  - Connected to a concrete action.
-- Find your personal line where calculated decision-making becomes emotional decision-making.
+- Chris still considers it a bad trade.
+- It reinforces bad behaviour.
 
-Possible triggers include:
+## E.4 How C-game starts
+
+The sequence can become:
+
+```text
+Bad trade
+  ↓
+Loss
+  ↓
+Frustration
+  ↓
+Trying to make money back
+  ↓
+More rule breaking
+  ↓
+Tilt
+  ↓
+Account damage
+```
+
+## E.5 Rules must have actions
+
+Chris says rules such as:
+
+- Don't overtrade.
+- Don't oversize.
+
+are not real rules by themselves.
+
+A useful rule must be:
+
+- Specific.
+- Personal.
+- Connected to an action.
+
+## E.6 Find the breaking point
+
+Every trader has a line where calculated decisions become emotional decisions.
+
+Possible triggers Chris mentions:
 
 - A certain P&L.
 - Several losses.
 - Several breakevens.
-- Missing a move.
-- Excessive confidence after winning.
+- Overconfidence from winning.
 
----
+The trader must identify their own breaking point.
 
-# 19. Hard limits
+## E.7 Find what happened before tilt
 
-Chris found from his own data:
+The catastrophic trade is usually not where the problem started.
 
-- Performance deteriorated after about 1.5 hours after the open.
-  - He created a hard shut-off time.
-- Poor decisions became more likely after about three consecutive losses.
-  - He does not wait for the third.
-  - He effectively stops after two consecutive losses.
+Something happened earlier.
 
-The principle:
+Chris says to identify:
 
-- Stop before reaching your breaking point.
-
----
-
-# 20. Self-control
-
-If you notice yourself:
-
-- Chasing.
-- Entering prematurely.
-- Assuming instead of observing.
-- Increasing size because of frustration.
+- The sequence of events that caused the behaviour.
 
 Then:
 
-- Shut the session down.
+- Build a solution before reaching that point again.
+
+## E.8 Chris's hard limits
+
+Chris found from his own data:
+
+- His trades become dramatically worse after about 1.5 hours after the open.
+  - He uses a hard shut-off time.
+
+He also found:
+
+- Three consecutive losses makes bad decision-making much more likely.
+
+So he does not wait for the third.
+
+His rule:
+
+- Stop after two consecutive losses.
+
+## E.9 Self-control
+
+If Chris notices himself:
+
+- Entering prematurely.
+- Chasing.
+- Assuming instead of observing.
+- Increasing size because of frustration.
+
+He shuts the session down.
 
 ---
 
-# 21. Learn with very small size
+# F. Learning process
 
-- Chris reduced size dramatically.
-- The purpose was:
-  - Repetitions.
-  - Correct execution.
-- The immediate purpose was not:
-  - Passing accounts.
-  - Payouts.
-- Reduce the influence of money on decisions.
+## F.1 Focus on execution instead of money
 
-The sequence becomes:
+Chris says his turning point came when he realized he was too focused on money.
+
+He shifted the focus toward:
+
+- Execution.
+
+## F.2 Size down dramatically
+
+Chris reduced size to:
+
+- One micro in a prop account.
+
+The purpose was not:
+
+- Passing accounts.
+- Getting payouts.
+
+The purpose was:
+
+- Getting repetitions.
+- Executing correctly.
+
+Later he describes the learning size as:
+
+> So small it almost feels insulting.
+
+## F.3 Proper execution makes money the byproduct
+
+Chris's sequence:
 
 ```text
 Proper execution
-  ↓
+        ↓
 Repetition
-  ↓
+        ↓
 Money becomes a byproduct
 ```
 
-Instead of:
+Not:
 
 ```text
 Money target
-  ↓
+        ↓
 Emotional decisions
-  ↓
+        ↓
 Poor execution
 ```
 
+## F.4 Learn market mechanics
+
+A beginner should understand:
+
+- The market is an auction.
+- Participants have different goals.
+- Participants have different sizes.
+- Participants have different constraints.
+- Participants behave differently.
+
+Chris recommends learning:
+
+- Auction market theory.
+- Order flow.
+- How to read the relevant charts.
+
+## F.5 Practice with replay
+
+Chris mentions platforms such as:
+
+- ATAS.
+- Deep Charts.
+
+He recommends:
+
+- Replay.
+- Repetitions / reps.
+
+## F.6 Choose one strategy
+
+Choose a strategy that fits:
+
+- Your strengths.
+- Your weaknesses.
+- Your ability to make repeated decisions.
+
+A strategy with many setups may suit one trader and harm another.
+
+## F.7 Stop strategy hopping
+
+Do not move constantly from:
+
+- One setup.
+- To another setup.
+- To another strategy.
+
+Focus on one process and execute it properly.
+
+If the strategy does not work:
+
+- Consistent execution will reveal that.
+
+## F.8 Adjust to regime changes
+
+Once execution becomes consistent repetition, Chris says the next job is to keep paying attention to:
+
+- Regime changes.
+- Changes in volatility.
+- Changes in market conditions.
+
+Then:
+
+- Adjust.
+
 ---
 
-# 22. Learn market mechanics before strategy hopping
+# G. Final operating principle
 
-- First understand what the market actually is.
-- The market is an auction with participants that have different:
-  - Goals.
-  - Sizes.
-  - Constraints.
-  - Behaviours.
-- Learn:
-  - Auction market theory.
-  - Order flow.
-  - How to read the relevant charts.
-- Use replay to get repetitions.
+Do not focus primarily on:
 
----
+> How much money did I make today?
 
-# 23. Choose one strategy and execute it consistently
+Focus primarily on:
 
-- Choose a strategy that fits your personality.
-- A high-frequency strategy may suit one trader and damage another.
-- The strategy should complement:
-  - Your strengths.
-  - Your weaknesses.
-- Stop strategy hopping.
-- Execute one process consistently.
-- If it genuinely does not work:
-  - Consistent execution will reveal that.
+> How well did I trade?
 
----
+Priorities:
 
-# 24. Final operating principle
-
-Do not judge yourself primarily by:
-
-- How much money did I make today?
-
-Judge yourself primarily by:
-
-- How well did I trade?
-
-Focus on:
-
-- Your execution.
-- Your process.
+- Execution.
+- Process.
 - Protecting yourself from bad behaviour.
 - Repeating the correct actions.
 
 ---
 
-# Complete flow
+# Complete process
 
 ```text
+MENTAL MODEL
+
+Market = auction
+        ↓
+Buyers / sellers build positions
+        ↓
+Aggressive participation
+        ↓
+Effort versus result
+        ↓
+Failure can create trapped participants
+
+
 BEFORE MARKET OPEN
 
-Higher-timeframe structure
+ENVIRONMENT
         ↓
 Value up / value down / sideways
         ↓
-Last balanced range
+1H / 4H structure
         ↓
-Participants / effort / failure
+Current week / previous week
         ↓
-GEX / volatility environment
+Naive GEX
         ↓
-Prepare possible locations
+Positive / negative gamma volatility regime
+        ↓
+Call wall / put wall / gamma flip
+        ↓
+Build scenarios
 
-MARKET OPENS / PRICE MOVES
 
-Wait for planned location
+LOCATION
+
+Where do I want to do business?
         ↓
 Premium / discount
         ↓
-Inefficient area / low-volume node
+Inefficient area
+        ↓
+Low-volume node
         ↓
 Fib 0.705 / 0.788 / 0.886
         ↓
-Price reaches location
+Fib outside value
         ↓
-Read order flow
+Internal swing structure
         ↓
-Eager participation
+0.886 invalidation
+
+
+MARKET OPENS / PRICE REACHES LOCATION
+
+CONFIRMATION
         ↓
-Is effort succeeding or failing?
+5-minute order flow
         ↓
-Absorption / failure
+Volume profile + delta / bid-by-ask
+        ↓
+Participation at the extreme
+        ↓
+Negative delta / aggressive sellers
+        ↓
+Seller effort fails
+        ↓
+Absorption
+        ↓
+Do not enter yet
         ↓
 Shift of dominance
         ↓
-Second failure
+Second seller failure higher
         ↓
-Confirmation
+Buyer aggression
         ↓
-Entry
+400%+ footprint imbalance
+        ↓
+Second failure confirmed
+        ↓
+Bullish flip
+
+
+ENTRY
+
+Enter long
+        ↓
+Stop beyond failed sellers
+
 
 AFTER ENTRY
 
-Stop beyond failed participants
+Watch trapped shorts
         ↓
-Watch trapped participants
+Negative gamma may amplify squeeze
         ↓
 Reclaim value
         ↓
-Keep reading effort vs success/failure
+Continue reading effort versus result
         ↓
-Trail when progress continues
+Trail behind successful aggression
         ↓
-Target swing point
+Swing-point target
         ↓
-Exit / manage around important levels
+Manage around POC / call wall / psychological levels
+
+
+PARTICIPATION FILTERS
+
+Selective participation
+        ↓
+MNQ 5-minute volume
+        ↓
+~20,000 contracts threshold
+        ↓
+Avoid low-participation slow grinds
+        ↓
+Avoid / reconsider around important nearby news
+
 
 AFTER SESSION
 
-Judge execution
+Judge execution, not only P&L
         ↓
-Good loss / bad loss
+Good loss / bad trade
         ↓
-Find C-game triggers
+Reduce C-game
+        ↓
+Rules require actions
+        ↓
+Find personal breaking points
         ↓
 Apply hard limits
         ↓
-Repeat correctly
+Protect yourself from yourself
+
+
+LEARNING LOOP
+
+Very small size
+        ↓
+Repetitions
+        ↓
+Proper execution
+        ↓
+One strategy
+        ↓
+Stop strategy hopping
+        ↓
+Watch regime / volatility changes
+        ↓
+Adjust
 ```
