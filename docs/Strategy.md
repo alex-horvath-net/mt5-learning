@@ -34,3 +34,8 @@
   - Which side is making the effort?
     - Buyers?
     - Sellers?
+  - Is the effort succeeding or failing?
+    - Strong seller effort + clear downward movement = sellers are succeeding.
+    - Strong seller effort + little downward movement = sellers are failing.
+    - Strong buyer effort + clear upward movement = buyers are succeeding.
+    - Strong buyer effort + little upward movement = buyers are failing.
