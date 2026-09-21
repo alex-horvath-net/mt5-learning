@@ -4,7 +4,7 @@
 
 - Strategy file: `docs/Strategy.md`
 - Topic: `A. Mental model → A.1 Market as an auction`
-- Current subtopic: `Positions are built inside the range.`
+- Current subtopic: `Value is being built.`
 
 ## Rule
 
