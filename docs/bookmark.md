@@ -4,7 +4,7 @@
 
 - Strategy file: `docs/Strategy.md`
 - Topic: `A. Mental model → A.1 Market as an auction`
-- Current subtopic: `Value is being built.`
+- Current subtopic: `Full A.1 section`
 
 ## Rule
 
