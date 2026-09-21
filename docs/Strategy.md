@@ -38,8 +38,9 @@ The entry is only the final part of the decision.
   - Value is being built.
   - Nobody is necessarily being forced to participate.
 
-![3/240 — Balanced range can form](images/strategy-step-003-balanced-range.png)
+![alt text](<ChatGPT Image Sep 21, 2026, 07_22_38 PM.png>)
 
+![alt text](<ChatGPT Image Sep 21, 2026, 07_36_00 PM.png>)
 - Chris is generally not interested in trading the balanced condition itself.
 - He becomes interested when one side becomes more aggressive and starts forcing participation.
 
