@@ -38,6 +38,8 @@ The entry is only the final part of the decision.
   - Value is being built.
   - Nobody is necessarily being forced to participate.
 
+![3/240 — Balanced range can form](images/strategy-step-003-balanced-range.png)
+
 - Chris is generally not interested in trading the balanced condition itself.
 - He becomes interested when one side becomes more aggressive and starts forcing participation.
 
