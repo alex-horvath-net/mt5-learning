@@ -105,27 +105,92 @@ Examples Chris mentions:
 
 # 1. Environment — before the market opens
 
-Chris does this work before the market opens.
+Chris does this work **before the market opens**.
 
-He wants scenarios prepared before price is moving quickly.
+The goal is to arrive with a prepared view of the environment before price starts moving quickly.
+
+He is not trying to predict the exact trade in advance. He is building context so that, once the market opens, he already knows the kinds of conditions and locations that would make sense.
+
+Mental model:
+
+```text
+Before market open
+      ↓
+Classify value structure
+      ↓
+Read higher-timeframe structure
+      ↓
+Understand gamma environment
+      ↓
+Mark GEX reference levels
+      ↓
+Build scenarios
+      ↓
+Only then wait for execution conditions
+```
 
 ## 1.1 Classify value structure
 
-Determine whether the market is:
+First determine whether the market is:
 
-- Value up.
-- Value down.
-- Sideways.
+- **Value up.**
+- **Value down.**
+- **Sideways.**
+
+This is about where the market is repeatedly accepting price and doing business.
+
+### Value up
+
+Value areas are being created progressively higher.
+
+Mental picture:
+
+```text
+Value area 1
+      ↓
+      Value area 2
+            ↓
+            Value area 3
+```
+
+That tells Chris the market is accepting progressively higher prices.
+
+### Value down
+
+Value areas are being created progressively lower.
+
+```text
+            Value area 1
+      ↓
+      Value area 2
+↓
+Value area 3
+```
+
+That tells him the market is accepting progressively lower prices.
+
+### Sideways
+
+Value is staying broadly in the same horizontal area.
+
+The important point is not simply whether the latest candle is green or red.
+
+Chris wants to know:
+
+> **Where is value being built over time?**
+
 ![alt text](<ChatGPT Image Sep 21, 2026, 09_48_57 PM.png>)
 
 ## 1.2 Read higher-timeframe structure
 
-Use higher timeframes to understand what the market has been doing.
+Next, Chris zooms out.
 
-Chris specifically mentions:
+He specifically mentions:
 
-- 1-hour.
-- 4-hour.
+- **1-hour.**
+- **4-hour.**
+
+The purpose is to understand what the larger auction has been doing before making a lower-timeframe decision.
 
 He asks:
 
@@ -135,76 +200,227 @@ He asks:
 - Are we making higher lows?
 - Where is value being created?
 - Is value being created higher and higher?
+
+For example, a bullish higher-timeframe structure may look like:
+
+```text
+Higher high
+     ↑
+Higher low
+     ↑
+Higher high
+     ↑
+Higher low
+```
+
+The important combination is not just price making higher highs.
+
+Chris also wants to see whether **value itself is being created higher**.
+
+So the question becomes:
+
+> **Is the larger market structure moving higher, lower, or remaining balanced, and where is value migrating?**
+
+This higher-timeframe view gives context to the later location decision.
+
 ![alt text](<ChatGPT Image Sep 21, 2026, 09_49_42 PM.png>)
+
 ## 1.3 Understand the gamma environment
 
-Chris uses GEX to understand the volatility regime.
+Chris also uses **GEX — Gamma Exposure** to understand the volatility regime.
 
 He specifically says he uses:
 
-- Naive GEX.
+- **Naive GEX.**
 
 For NQ-related analysis he refers to:
 
-- QQQ.
-- NDX.
+- **QQQ.**
+- **NDX.**
 
-Do not interpret:
+The critical rule is:
 
-- Positive gamma = bullish.
-- Negative gamma = bearish.
- 
-![alt text](<ChatGPT Image Sep 21, 2026, 09_52_54 PM.png>)
+> **Positive gamma does not mean bullish. Negative gamma does not mean bearish.**
+
+Gamma here is being used as **environment context**, especially for understanding whether market moves are more likely to be dampened or amplified.
+
+### Learning note — what gamma is
+
+Gamma is one of the options Greeks.
+
+- **Delta** measures approximately how much an option price changes when the underlying moves.
+- **Gamma** measures how fast that delta changes when the underlying moves.
+- **GEX** aggregates gamma exposure across options positions to describe the broader hedging environment.
+
+The strategy does not require treating gamma as a directional prediction.
 
 ### Positive gamma
 
-Typical dealer behaviour:
+Typical dealer behaviour described in the strategy:
 
-- Sell into rips.
-- Buy into dips.
+- **Sell into rips.**
+- **Buy into dips.**
 
-Effect:
+That means dealer hedging tends to act **against** the move already happening.
 
-- Volatility can be dampened.
-- Breakouts can fail more often.
+If price rises:
+
+```text
+Price rises
+    ↓
+Dealers tend to sell
+    ↓
+Upward movement can be dampened
+```
+
+If price falls:
+
+```text
+Price falls
+    ↓
+Dealers tend to buy
+    ↓
+Downward movement can be dampened
+```
+
+Possible effect:
+
+- volatility can be dampened
+- price can behave more mean-reverting
+- breakouts can fail more often
+
+Simple memory:
+
+> **Positive gamma behaves more like a brake.**
 
 ### Negative gamma
 
-Typical dealer behaviour:
+Typical dealer behaviour described in the strategy:
 
-- Buy into rips.
-- Sell into dips.
+- **Buy into rips.**
+- **Sell into dips.**
 
-Effect:
+That means dealer hedging can act **with** the move already happening.
 
-- Volatility can be amplified.
-- Moves can be bigger and faster.
+If price rises:
 
-Negative gamma does **not** mean price must go down.
+```text
+Price rises
+    ↓
+Dealers may buy
+    ↓
+Buying reinforces the rise
+    ↓
+Move can become larger / faster
+```
+
+If price falls:
+
+```text
+Price falls
+    ↓
+Dealers may sell
+    ↓
+Selling reinforces the fall
+    ↓
+Move can become larger / faster
+```
+
+Possible effect:
+
+- volatility can be amplified
+- moves can become larger
+- moves can become faster
+
+Simple memory:
+
+> **Negative gamma behaves more like an accelerator.**
+
+Again:
+
+> **Negative gamma does not mean price must go down.**
+
+It means the environment can amplify movement in **either direction**.
+
+![alt text](<ChatGPT Image Sep 21, 2026, 09_52_54 PM.png>)
 
 ## 1.4 Mark GEX reference levels
 
 Chris also wants to know:
 
-- Call wall.
-- Put wall.
-- Gamma flip zone.
+- **Call wall.**
+- **Put wall.**
+- **Gamma flip zone.**
 
-The gamma flip is the line where the environment begins moving between positive and negative gamma territory.
+These are reference levels for understanding the options-driven environment.
 
-He does **not** primarily use these levels as automatic bounce signals.
+### Call wall
 
-He uses them to understand the environment.
+A call wall is a significant options-positioning level associated with concentrated call exposure around a strike.
+
+### Put wall
+
+A put wall is a significant options-positioning level associated with concentrated put exposure around a strike.
+
+### Gamma flip zone
+
+The gamma flip is the area where the gamma environment begins transitioning between:
+
+```text
+Positive gamma
+      ↕
+Gamma flip
+      ↕
+Negative gamma
+```
+
+The important rule is:
+
+> **These are context levels, not automatic bounce signals.**
+
+Chris does not simply see a call wall, put wall, or gamma flip and enter a trade.
+
+He uses them to understand the environment in which price is operating.
 
 ![alt text](image-1.png)
 
 ## 1.5 Build scenarios before execution
 
-Chris does not want to build the whole trade idea while price is moving quickly.
+Finally, Chris prepares scenarios **before** the market begins moving quickly.
 
-He wants:
+He does not want to invent the entire trade idea in real time while price is accelerating.
 
-> Structure before clicking buttons.
+His principle is:
+
+> **Structure before clicking buttons.**
+
+The preparation sequence is:
+
+```text
+Environment
+    ↓
+Larger structure
+    ↓
+Gamma regime
+    ↓
+Important reference levels
+    ↓
+Possible scenarios
+```
+
+A scenario is not a prediction that price **must** do something.
+
+It is preparation:
+
+```text
+IF the expected condition develops
+THEN I know what I will look for next.
+
+IF it does not develop
+THEN I do not force the trade.
+```
+
+The goal is to arrive at the open with a plan instead of reacting impulsively to fast price movement.
 
 ![alt text](image-2.png)
 ---
