@@ -56,6 +56,9 @@ The entry is only the final part of the decision.
 - Chris looks for participation near the edges of the auction that fails.
 - Failed participants can become trapped / offside.
 - Their exits can accelerate price in the opposite direction.
+  ![alt text](<ChatGPT Image Sep 21, 2026, 09_24_25 PM.png>)
+  
+  ![alt text](<ChatGPT Image Sep 21, 2026, 09_23_09 PM.png>)
 
 ## A.3 Effort versus result
 
@@ -77,6 +80,7 @@ Strong effort + expected price progression
 Strong effort + little price progression
 = that side may be failing
 ```
+![alt text](<ChatGPT Image Sep 21, 2026, 09_36_00 PM.png>)
 
 ## A.4 Different participants
 
@@ -95,6 +99,7 @@ Examples Chris mentions:
 > Learning note: Liquidity means enough opposite-side orders are available to execute size without moving price too much. This definition is included for clarity; Chris does not explicitly define liquidity this way in the podcast.
 
 ---
+![alt text](<ChatGPT Image Sep 21, 2026, 09_41_14 PM.png>)
 
 # B. Trading process
 
@@ -111,6 +116,7 @@ Determine whether the market is:
 - Value up.
 - Value down.
 - Sideways.
+![alt text](<ChatGPT Image Sep 21, 2026, 09_48_57 PM.png>)
 
 ## 1.2 Read higher-timeframe structure
 
@@ -129,7 +135,7 @@ He asks:
 - Are we making higher lows?
 - Where is value being created?
 - Is value being created higher and higher?
-
+![alt text](<ChatGPT Image Sep 21, 2026, 09_49_42 PM.png>)
 ## 1.3 Understand the gamma environment
 
 Chris uses GEX to understand the volatility regime.
@@ -147,6 +153,8 @@ Do not interpret:
 
 - Positive gamma = bullish.
 - Negative gamma = bearish.
+ 
+![alt text](<ChatGPT Image Sep 21, 2026, 09_52_54 PM.png>)
 
 ### Positive gamma
 
@@ -188,6 +196,8 @@ He does **not** primarily use these levels as automatic bounce signals.
 
 He uses them to understand the environment.
 
+![alt text](image-1.png)
+
 ## 1.5 Build scenarios before execution
 
 Chris does not want to build the whole trade idea while price is moving quickly.
@@ -196,6 +206,7 @@ He wants:
 
 > Structure before clicking buttons.
 
+![alt text](image-2.png)
 ---
 
 # 2. Location — where do I want to do business?
