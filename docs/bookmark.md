@@ -3,8 +3,8 @@
 ## Learning
 
 - Strategy file: `docs/Strategy.md`
-- Topic: `A. Mental model → A.1 Market as an auction`
-- Current subtopic: `Positions are built inside the range.`
+- Topic: `A. Mental model → A.2 Forced participation`
+- Current subtopic: `Full A.2 section`
 
 ## Rule
 
