@@ -446,6 +446,8 @@ He also does not want to:
 - Call the top.
 - Call the bottom.
 
+![alt text](image-3.png)
+
 ## 2.2 Premium and discount
 
 Using the value area:
@@ -457,6 +459,8 @@ In a value-up structure:
 
 - Chris prefers waiting for price to move into discount.
 
+![alt text](image-4.png)
+
 ## 2.3 Inefficient areas
 
 If price moved through an area very quickly:
@@ -465,7 +469,9 @@ If price moved through an area very quickly:
 - Little business was conducted there.
 
 Chris treats this as a relatively inefficient part of the move.
+It matters because you can use that area as part of location analysis later.
 
+![alt text](image-5.png)
 ## 2.4 Low-volume nodes
 
 A low-volume node means:
@@ -474,6 +480,8 @@ A low-volume node means:
 - Not much business was transacted there.
 
 Chris can use this together with location.
+
+![alt text](image-6.png)
 
 ## 2.5 Fibonacci discount zone
 
@@ -502,6 +510,8 @@ He wants it:
 - Outside the value area.
 - In discount for the long example.
 
+![alt text](image-7.png)
+
 ## 2.7 Internal structure
 
 Chris wants a recognizable swing point before the move into discount.
@@ -512,6 +522,8 @@ He simply wants:
 
 - A swing point.
 - Normal pullback / breathing structure.
+
+![alt text](image-8.png)
 
 ## 2.8 0.886 invalidation
 
@@ -527,6 +539,8 @@ If price goes below 0.886 and buyers cannot shift dominance back upward:
 
 Chris connects this to the expected failed auction lower out of value.
 
+![alt text](image-9.png)
+
 ## 2.9 Location is not enough
 
 A box or level on the chart does not mean price must respect it.
@@ -536,6 +550,7 @@ Location only tells Chris:
 > This is where I may want to do business.
 
 He still needs confirmation.
+![alt text](image-10.png)
 
 ---
 
@@ -548,6 +563,8 @@ Wait for price to reach the planned area.
 At that point:
 
 - Move from location analysis to confirmation.
+
+![alt text](image-11.png)
 
 ---
 
@@ -566,6 +583,8 @@ Chris says:
 
 His order-flow confirmation is mainly described using 5-minute candles.
 
+![alt text](image-12.png)
+
 ## 4.2 What normal candles show
 
 A normal candlestick shows:
@@ -581,6 +600,8 @@ Chris calls this the:
 
 It shows the result of the auction.
 
+![alt text
+](image-13.png)
 ## 4.3 What order flow adds
 
 Chris wants to see how that result was created.
@@ -589,6 +610,8 @@ He uses:
 
 - Volume profile candles.
 - Delta / bid-by-ask candles.
+
+![alt text](image-14.png)
 
 ## 4.4 Long example — seller participation in discount
 
@@ -605,6 +628,8 @@ Negative delta means:
 
 - More aggressive sellers than aggressive buyers.
 
+![alt text](image-15.png)
+
 ## 4.5 Seller aggression without price progression
 
 The important question is not simply:
@@ -620,6 +645,8 @@ If sellers are very aggressive but price does not progress lower:
 - Their effort is failing.
 - This can indicate absorption.
 
+![alt text](image-16.png)
+
 ## 4.6 Absorption is not a reversal signal by itself
 
 Chris explicitly says:
@@ -632,44 +659,12 @@ So he waits for:
 
 - A shift of dominance.
 
+![alt text](image-17.png)
+
 ---
 
-# 5. Shift of dominance
 
-In the long example:
-
-1. Price enters discount.
-2. Aggressive sellers appear.
-3. Sellers fail to create meaningful downward price progression.
-4. The candle flips and closes bullish.
-5. The next candle opens.
-6. The next candle pulls back.
-7. Sellers become aggressive again.
-8. That second seller attempt fails higher.
-9. Buyer aggression starts appearing.
-10. Dominance shifts back toward buyers.
-
-Only then is Chris interested in going long.
-
-The structure is:
-
-```text
-Discount
-  ↓
-Aggressive sellers
-  ↓
-Sellers fail
-  ↓
-Bullish recovery
-  ↓
-Sellers try again
-  ↓
-Second failure higher
-  ↓
-Buyer aggression
-  ↓
-Shift of dominance
-```
+TesmT
 
 ---
 
@@ -696,6 +691,9 @@ But:
 - He waits for the market to try again.
 - He wants the second failure.
 
+
+![alt text](image-18.png)
+
 ---
 
 # 7. Entry
@@ -716,6 +714,7 @@ The entry is only the final confirmation.
 
 The trade idea already existed before the entry trigger.
 
+![alt text](image-19.png)
 ---
 
 # 8. Stop loss / invalidation
@@ -736,7 +735,7 @@ If sellers later succeed through that area
       ↓
 Trade idea is invalid
 ```
-
+![alt text](image-24.png)
 ---
 
 # 9. Trapped participants after entry
@@ -749,6 +748,8 @@ If sellers entered short near the bottom and price starts rising:
 
 That buying can accelerate the upward move.
 
+![alt text](image-25.png)
+
 ## 9.1 Negative gamma can amplify the move
 
 In the long example:
@@ -757,7 +758,7 @@ In the long example:
 - In negative gamma, dealers may also be buying into the rip.
 
 These forces can combine and make the move faster.
-
+![alt text](image-26.png)
 ---
 
 # 10. Reclaim value
@@ -778,7 +779,7 @@ Chris may:
 Again:
 
 > Effort versus result.
-
+![alt text](image-21.png)
 ---
 
 # 11. Trade management
@@ -799,7 +800,7 @@ If buyer aggression is strong but price stops progressing:
 - Price may pull back.
 
 The same order-flow information used for entry is also used for trade management.
-
+![alt text](image-23.png)
 ---
 
 # 12. Targets
@@ -824,7 +825,7 @@ He may also consider:
 He may keep a larger swing target while:
 
 - Trailing the stop as price approaches important areas.
-
+![alt text](image-20.png)
 ---
 
 # C. Participation filters
@@ -847,6 +848,7 @@ He does not want to make constant back-to-back decisions because it wears down:
 
 - Focus.
 - Mental capacity.
+![alt text](image-27.png)
 
 ## C.2 Volume participation filter
 
