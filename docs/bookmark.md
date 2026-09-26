@@ -4,11 +4,11 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `B. Trading process → 1. Environment — before the market opens`
-- Current subtopic: `Section introduction — preparation sequence before execution conditions`
-- Status: In progress — introduction presented; awaiting learner confirmation. This introduction contains no picture.
+- Topic: `B. Trading process → 1. Environment — before the market opens → 1.1 Classify value structure`
+- Current subtopic: `Value up, value down and sideways; existing illustration`
+- Status: In progress — explanation and existing illustration presented; awaiting learner confirmation.
 - Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`.
-- Next topic after confirmation: `1.1 Classify value structure`.
+- Next topic after confirmation: `1.2 Read higher-timeframe structure`.
 
 ## Teaching and progress rules
 
