@@ -26,6 +26,9 @@ The entry is only the final part of the decision.
 
 ---
 
+<details>
+<summary><strong>A. Mental model</strong></summary>
+
 # A. Mental model
 
 ## A.1 Market as an auction
@@ -101,7 +104,16 @@ Examples Chris mentions:
 ---
 ![alt text](<images/ChatGPT Image Sep 21, 2026, 09_41_14 PM.webp>)
 
+
+</details>
+
+<details>
+<summary><strong>B. Trading process</strong></summary>
+
 # B. Trading process
+
+<details>
+<summary><strong>1. Environment , before the market opens</strong></summary>
 
 # 1. Environment — before the market opens
 
@@ -425,6 +437,12 @@ The goal is to arrive at the open with a plan instead of reacting impulsively to
 ![alt text](images/image-2.webp)
 ---
 
+
+</details>
+
+<details>
+<summary><strong>2. Location , where do I want to do business?</strong></summary>
+
 # 2. Location — where do I want to do business?
 
 The second part of Chris's process is location.
@@ -554,6 +572,12 @@ He still needs confirmation.
 
 ---
 
+
+</details>
+
+<details>
+<summary><strong>3. Wait for price to reach location</strong></summary>
+
 # 3. Wait for price to reach location
 
 Do not enter just because the setup exists conceptually.
@@ -567,6 +591,12 @@ At that point:
 ![alt text](images/image-11.webp)
 
 ---
+
+
+</details>
+
+<details>
+<summary><strong>4. Confirmation , order flow</strong></summary>
 
 # 4. Confirmation — order flow
 
@@ -667,6 +697,12 @@ TesmT
 
 ---
 
+
+</details>
+
+<details>
+<summary><strong>6. Footprint imbalance</strong></summary>
+
 # 6. Footprint imbalance
 
 Chris uses a bid-by-ask footprint.
@@ -695,6 +731,12 @@ But:
 
 ---
 
+
+</details>
+
+<details>
+<summary><strong>7. Entry</strong></summary>
+
 # 7. Entry
 
 In the long example, Chris enters when:
@@ -716,6 +758,12 @@ The trade idea already existed before the entry trigger.
 ![alt text](images/image-19.webp)
 ---
 
+
+</details>
+
+<details>
+<summary><strong>8. Stop loss / invalidation</strong></summary>
+
 # 8. Stop loss / invalidation
 
 Chris places the stop on the other side of the failed sellers.
@@ -736,6 +784,12 @@ Trade idea is invalid
 ```
 ![alt text](images/image-24.webp)
 ---
+
+
+</details>
+
+<details>
+<summary><strong>9. Trapped participants after entry</strong></summary>
 
 # 9. Trapped participants after entry
 
@@ -760,6 +814,12 @@ These forces can combine and make the move faster.
 ![alt text](images/image-26.webp)
 ---
 
+
+</details>
+
+<details>
+<summary><strong>10. Reclaim value</strong></summary>
+
 # 10. Reclaim value
 
 After entering the long, one of the first things Chris wants is:
@@ -781,6 +841,12 @@ Again:
 ![alt text](images/image-21.webp)
 ---
 
+
+</details>
+
+<details>
+<summary><strong>11. Trade management</strong></summary>
+
 # 11. Trade management
 
 Chris keeps reading order flow while the position is open.
@@ -801,6 +867,12 @@ If buyer aggression is strong but price stops progressing:
 The same order-flow information used for entry is also used for trade management.
 ![alt text](images/image-23.webp)
 ---
+
+
+</details>
+
+<details>
+<summary><strong>12. Targets</strong></summary>
 
 # 12. Targets
 
@@ -826,6 +898,15 @@ He may keep a larger swing target while:
 - Trailing the stop as price approaches important areas.
 ![alt text](images/image-20.webp)
 ---
+
+
+</details>
+
+
+</details>
+
+<details>
+<summary><strong>C. Participation filters</strong></summary>
 
 # C. Participation filters
 
@@ -907,6 +988,12 @@ So important nearby news can be a reason not to take an otherwise valid setup.
 ![alt text](images/image-30.webp)
 ---
 
+
+</details>
+
+<details>
+<summary><strong>D. Risk and performance characteristics</strong></summary>
+
 # D. Risk and performance characteristics
 
 ## D.1 Typical risk-to-reward
@@ -953,6 +1040,12 @@ That relationship is approximately:
 - 1.5R.
 ![alt text](images/image-33.webp)
 ---
+
+
+</details>
+
+<details>
+<summary><strong>E. Execution discipline</strong></summary>
 
 # E. Execution discipline
 
@@ -1123,6 +1216,12 @@ He shuts the session down.
 
 ---
 
+
+</details>
+
+<details>
+<summary><strong>F. Learning process</strong></summary>
+
 # F. Learning process
 
 ## F.1 Focus on execution instead of money
@@ -1250,6 +1349,12 @@ Then:
 ![alt text](images/image-50.webp)
 ---
 
+
+</details>
+
+<details>
+<summary><strong>G. Final operating principle</strong></summary>
+
 # G. Final operating principle
 
 Do not focus primarily on:
@@ -1269,6 +1374,12 @@ Priorities:
 
 ![alt text](images/image-51.webp)
 ---
+
+
+</details>
+
+<details>
+<summary><strong>Complete process</strong></summary>
 
 # Complete process
 
@@ -1428,6 +1539,12 @@ Adjust
 ![alt text](images/image-52.webp)
 
 ---
+
+
+</details>
+
+<details>
+<summary><strong>Case Study 01</strong></summary>
 
 # Case Study 01
 
@@ -2306,3 +2423,5 @@ The source's quotations embedded in illustrations have not been authenticated ag
 The numerical checks cover the supplied dataset and calculations. The main scenario and all branches are teaching constructions. They show how to make the documented process concrete, while leaving actual strategy validation and future automation decisions open.
 
 Validation record: the original strategy wording and existing image assets are retained, with malformed image references repaired. All 60 original image references are represented in the coverage audit. The 23 new figures were inspected as rendered PNG previews; their numerical inputs, candle aggregation, stop chronology, costs, and P&L pass the generator checks. Markdown conversion produced 22 tables, and all new local links and internal anchors resolve. Full browser layout inspection could not be completed because the browser preview failed to initialize.
+
+</details>
