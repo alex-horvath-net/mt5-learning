@@ -38,7 +38,7 @@
     - Value down 
     - sideways
     - We creting value between peeks
-      ![alt text](images/image.png)
+      ![alt text](images/image.webp)
   - Understand what the higher time frames are doing
     - 1 hour somtimes 4 hour chart
     - What has the week been doung
@@ -63,7 +63,7 @@
         - We have to think about this in terms of Volatility
           - selling into the rips
           - buying into the dips
-          - ![alt text](images/image-1.png)
+          - ![alt text](images/image-1.webp)
       - Negative GEX
         - they may think short
         - buying into the rips
@@ -95,11 +95,11 @@
     - Check order flow 
       - standard candle stick shows open, high, low and close, but that is just the result of the underlying order flow.
       - candles with Volume profile
-        - ![alt text](images/image-2.png)
+        - ![alt text](images/image-2.webp)
         - All the volume is down
         - POC (Point of Control), where the most amount of contracts are concentrated
       - candles with Delta profile (5 min)
-        -  ![alt text](images/image-3.png)
+        -  ![alt text](images/image-3.webp)
         - All the delta is negative (right), so it is sellers  
       - So we can see in structure up environment, 
         after explosion and temporary setelment 
@@ -112,7 +112,7 @@
       - Looking for shift of dominance back to the upside buyers
         - candle closed bullish  
         - next candle to open up to immadiatly pull back
-         ![alt text](images/image-4.png)
+         ![alt text](images/image-4.webp)
         - I am loolking for aggression happen the sellers again, but this time I want it to fail at a higher up. Bullish , going long
         - entering the trade here
         - Put stop loss on the other side of the failed sellers

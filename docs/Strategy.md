@@ -38,9 +38,9 @@ The entry is only the final part of the decision.
   - Value is being built.
   - Nobody is necessarily being forced to participate.
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 07_22_38 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 07_22_38 PM.webp>)
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 07_36_00 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 07_36_00 PM.webp>)
 - Chris is generally not interested in trading the balanced condition itself.
 - He becomes interested when one side becomes more aggressive and starts forcing participation.
 
@@ -56,9 +56,9 @@ The entry is only the final part of the decision.
 - Chris looks for participation near the edges of the auction that fails.
 - Failed participants can become trapped / offside.
 - Their exits can accelerate price in the opposite direction.
-  ![alt text](images/<ChatGPT Image Sep 21, 2026, 09_24_25 PM.png>)
+  ![alt text](images/<ChatGPT Image Sep 21, 2026, 09_24_25 PM.webp>)
   
-  ![alt text](images/<ChatGPT Image Sep 21, 2026, 09_23_09 PM.png>)
+  ![alt text](images/<ChatGPT Image Sep 21, 2026, 09_23_09 PM.webp>)
 
 ## A.3 Effort versus result
 
@@ -80,7 +80,7 @@ Strong effort + expected price progression
 Strong effort + little price progression
 = that side may be failing
 ```
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_36_00 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 09_36_00 PM.webp>)
 
 ## A.4 Different participants
 
@@ -99,7 +99,7 @@ Examples Chris mentions:
 > Learning note: Liquidity means enough opposite-side orders are available to execute size without moving price too much. This definition is included for clarity; Chris does not explicitly define liquidity this way in the podcast.
 
 ---
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_41_14 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 09_41_14 PM.webp>)
 
 # B. Trading process
 
@@ -179,7 +179,7 @@ Chris wants to know:
 
 > **Where is value being built over time?**
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_48_57 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 09_48_57 PM.webp>)
 
 ## 1.2 Read higher-timeframe structure
 
@@ -223,7 +223,7 @@ So the question becomes:
 
 This higher-timeframe view gives context to the later location decision.
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_49_42 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 09_49_42 PM.webp>)
 
 ## 1.3 Understand the gamma environment
 
@@ -342,7 +342,7 @@ Again:
 
 It means the environment can amplify movement in **either direction**.
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_52_54 PM.png>)
+![alt text](images/<ChatGPT Image Sep 21, 2026, 09_52_54 PM.webp>)
 
 ## 1.4 Mark GEX reference levels
 
@@ -382,7 +382,7 @@ Chris does not simply see a call wall, put wall, or gamma flip and enter a trade
 
 He uses them to understand the environment in which price is operating.
 
-![alt text](images/image-1.png)
+![alt text](images/image-1.webp)
 
 ## 1.5 Build scenarios before execution
 
@@ -422,7 +422,7 @@ THEN I do not force the trade.
 
 The goal is to arrive at the open with a plan instead of reacting impulsively to fast price movement.
 
-![alt text](images/image-2.png)
+![alt text](images/image-2.webp)
 ---
 
 # 2. Location — where do I want to do business?
@@ -446,7 +446,7 @@ He also does not want to:
 - Call the top.
 - Call the bottom.
 
-![alt text](images/image-3.png)
+![alt text](images/image-3.webp)
 
 ## 2.2 Premium and discount
 
@@ -459,7 +459,7 @@ In a value-up structure:
 
 - Chris prefers waiting for price to move into discount.
 
-![alt text](images/image-4.png)
+![alt text](images/image-4.webp)
 
 ## 2.3 Inefficient areas
 
@@ -471,7 +471,7 @@ If price moved through an area very quickly:
 Chris treats this as a relatively inefficient part of the move.
 It matters because you can use that area as part of location analysis later.
 
-![alt text](images/image-5.png)
+![alt text](images/image-5.webp)
 ## 2.4 Low-volume nodes
 
 A low-volume node means:
@@ -481,7 +481,7 @@ A low-volume node means:
 
 Chris can use this together with location.
 
-![alt text](images/image-6.png)
+![alt text](images/image-6.webp)
 
 ## 2.5 Fibonacci discount zone
 
@@ -510,7 +510,7 @@ He wants it:
 - Outside the value area.
 - In discount for the long example.
 
-![alt text](images/image-7.png)
+![alt text](images/image-7.webp)
 
 ## 2.7 Internal structure
 
@@ -523,7 +523,7 @@ He simply wants:
 - A swing point.
 - Normal pullback / breathing structure.
 
-![alt text](images/image-8.png)
+![alt text](images/image-8.webp)
 
 ## 2.8 0.886 invalidation
 
@@ -539,7 +539,7 @@ If price goes below 0.886 and buyers cannot shift dominance back upward:
 
 Chris connects this to the expected failed auction lower out of value.
 
-![alt text](images/image-9.png)
+![alt text](images/image-9.webp)
 
 ## 2.9 Location is not enough
 
@@ -550,7 +550,7 @@ Location only tells Chris:
 > This is where I may want to do business.
 
 He still needs confirmation.
-![alt text](images/image-10.png)
+![alt text](images/image-10.webp)
 
 ---
 
@@ -564,7 +564,7 @@ At that point:
 
 - Move from location analysis to confirmation.
 
-![alt text](images/image-11.png)
+![alt text](images/image-11.webp)
 
 ---
 
@@ -583,7 +583,7 @@ Chris says:
 
 His order-flow confirmation is mainly described using 5-minute candles.
 
-![alt text](images/image-12.png)
+![alt text](images/image-12.webp)
 
 ## 4.2 What normal candles show
 
@@ -601,7 +601,7 @@ Chris calls this the:
 It shows the result of the auction.
 
 ![alt text
-](images/image-13.png)
+](images/image-13.webp)
 ## 4.3 What order flow adds
 
 Chris wants to see how that result was created.
@@ -611,7 +611,7 @@ He uses:
 - Volume profile candles.
 - Delta / bid-by-ask candles.
 
-![alt text](images/image-14.png)
+![alt text](images/image-14.webp)
 
 ## 4.4 Long example — seller participation in discount
 
@@ -628,7 +628,7 @@ Negative delta means:
 
 - More aggressive sellers than aggressive buyers.
 
-![alt text](images/image-15.png)
+![alt text](images/image-15.webp)
 
 ## 4.5 Seller aggression without price progression
 
@@ -645,7 +645,7 @@ If sellers are very aggressive but price does not progress lower:
 - Their effort is failing.
 - This can indicate absorption.
 
-![alt text](images/image-16.png)
+![alt text](images/image-16.webp)
 
 ## 4.6 Absorption is not a reversal signal by itself
 
@@ -659,7 +659,7 @@ So he waits for:
 
 - A shift of dominance.
 
-![alt text](images/image-17.png)
+![alt text](images/image-17.webp)
 
 ---
 
@@ -692,7 +692,7 @@ But:
 - He wants the second failure.
 
 
-![alt text](images/image-18.png)
+![alt text](images/image-18.webp)
 
 ---
 
@@ -714,7 +714,7 @@ The entry is only the final confirmation.
 
 The trade idea already existed before the entry trigger.
 
-![alt text](images/image-19.png)
+![alt text](images/image-19.webp)
 ---
 
 # 8. Stop loss / invalidation
@@ -735,7 +735,7 @@ If sellers later succeed through that area
       ↓
 Trade idea is invalid
 ```
-![alt text](images/image-24.png)
+![alt text](images/image-24.webp)
 ---
 
 # 9. Trapped participants after entry
@@ -748,7 +748,7 @@ If sellers entered short near the bottom and price starts rising:
 
 That buying can accelerate the upward move.
 
-![alt text](images/image-25.png)
+![alt text](images/image-25.webp)
 
 ## 9.1 Negative gamma can amplify the move
 
@@ -758,7 +758,7 @@ In the long example:
 - In negative gamma, dealers may also be buying into the rip.
 
 These forces can combine and make the move faster.
-![alt text](images/image-26.png)
+![alt text](images/image-26.webp)
 ---
 
 # 10. Reclaim value
@@ -779,7 +779,7 @@ Chris may:
 Again:
 
 > Effort versus result.
-![alt text](images/image-21.png)
+![alt text](images/image-21.webp)
 ---
 
 # 11. Trade management
@@ -800,7 +800,7 @@ If buyer aggression is strong but price stops progressing:
 - Price may pull back.
 
 The same order-flow information used for entry is also used for trade management.
-![alt text](images/image-23.png)
+![alt text](images/image-23.webp)
 ---
 
 # 12. Targets
@@ -825,7 +825,7 @@ He may also consider:
 He may keep a larger swing target while:
 
 - Trailing the stop as price approaches important areas.
-![alt text](images/image-20.png)
+![alt text](images/image-20.webp)
 ---
 
 # C. Participation filters
@@ -848,7 +848,7 @@ He does not want to make constant back-to-back decisions because it wears down:
 
 - Focus.
 - Mental capacity.
-![alt text](images/image-27.png)
+![alt text](images/image-27.webp)
 
 ## C.2 Volume participation filter
 
@@ -883,7 +883,7 @@ He says this is part of the reason he mainly trades:
 He sometimes trades:
 
 - Asia session.
-![alt text](images/image-28.png)
+![alt text](images/image-28.webp)
 
 ## C.3 MNQ versus NQ
 
@@ -893,7 +893,7 @@ He says:
 
 - He uses MNQ.
 - It works for him.
-![alt text](images/image-29.png)
+![alt text](images/image-29.webp)
 
 ## C.4 News filter
 
@@ -905,7 +905,7 @@ One example he gives:
 
 So important nearby news can be a reason not to take an otherwise valid setup.
 
-![alt text](images/image-30.png)
+![alt text](images/image-30.webp)
 ---
 
 # D. Risk and performance characteristics
@@ -928,7 +928,7 @@ His view:
 > He wants to be right, not look cool.
 
 Extra confirmation may reduce theoretical R, but he accepts that.
-![alt text](images/image-31.png)
+![alt text](images/image-31.webp)
 
 ## D.2 Reported performance
 
@@ -938,7 +938,7 @@ Chris reports that his results typically fluctuate around:
 - Profit factor: approximately 1.8.
 
 These are his reported results, not guarantees.
-![alt text](images/image-32.png)
+![alt text](images/image-32.webp)
 
 ## D.3 Prop-firm context
 
@@ -952,7 +952,7 @@ His example:
 That relationship is approximately:
 
 - 1.5R.
-![alt text](images/image-33.png)
+![alt text](images/image-33.webp)
 ---
 
 # E. Execution discipline
@@ -984,7 +984,7 @@ You can control:
 - Unnecessary losses.
 - Bad decisions.
 - Destructive C-game sessions.
-![alt text](images/image-34.png)
+![alt text](images/image-34.webp)
 
 ## E.2 Good loss
 
@@ -1001,7 +1001,7 @@ A good loss means:
 If the trade loses anyway:
 
 - That is normal variance in a probabilistic environment.
-![alt text](images/image-35.png)
+![alt text](images/image-35.webp)
 ## E.3 Bad trade / bad loss
 
 A bad trade occurs when the process is bent because the trader wants to participate.
@@ -1021,7 +1021,7 @@ Even if the trade wins:
 
 - Chris still considers it a bad trade.
 - It reinforces bad behaviour.
-![alt text](images/image-36.png)
+![alt text](images/image-36.webp)
 
 ## E.4 How C-game starts
 
@@ -1042,7 +1042,7 @@ Tilt
   ↓
 Account damage
 ```
-![alt text](images/image-37.png)
+![alt text](images/image-37.webp)
 
 ## E.5 Rules must have actions
 
@@ -1059,7 +1059,7 @@ A useful rule must be:
 - Personal.
 - Connected to an action.
 
-![alt text](images/image-38.png)
+![alt text](images/image-38.webp)
 
 ## E.6 Find the breaking point
 
@@ -1074,7 +1074,7 @@ Possible triggers Chris mentions:
 
 The trader must identify their own breaking point.
 
-![alt text](images/image-39.png)
+![alt text](images/image-39.webp)
 
 ## E.7 Find what happened before tilt
 
@@ -1089,7 +1089,7 @@ Chris says to identify:
 Then:
 
 - Build a solution before reaching that point again.
-![alt text](images/image-40.png)
+![alt text](images/image-40.webp)
 
 ## E.8 Chris's hard limits
 
@@ -1107,7 +1107,7 @@ So he does not wait for the third.
 His rule:
 
 - Stop after two consecutive losses.
-![alt text](images/image-41.png)
+![alt text](images/image-41.webp)
 
 ## E.9 Self-control
 
@@ -1120,7 +1120,7 @@ If Chris notices himself:
 
 He shuts the session down.
 
-![alt text](images/image-42.png)
+![alt text](images/image-42.webp)
 
 ---
 
@@ -1133,7 +1133,7 @@ Chris says his turning point came when he realized he was too focused on money.
 He shifted the focus toward:
 
 - Execution.
-![alt text](images/image-43.png)
+![alt text](images/image-43.webp)
 
 ## F.2 Size down dramatically
 
@@ -1155,7 +1155,7 @@ Later he describes the learning size as:
 
 > So small it almost feels insulting.
 
-![alt text](images/image-44.png)
+![alt text](images/image-44.webp)
 
 ## F.3 Proper execution makes money the byproduct
 
@@ -1178,7 +1178,7 @@ Emotional decisions
         ↓
 Poor execution
 ```
-![alt text](images/image-45.png)
+![alt text](images/image-45.webp)
 
 ## F.4 Learn market mechanics
 
@@ -1195,7 +1195,7 @@ Chris recommends learning:
 - Auction market theory.
 - Order flow.
 - How to read the relevant charts.
-![alt text](images/image-46.png)
+![alt text](images/image-46.webp)
 ## F.5 Practice with replay
 
 Chris mentions platforms such as:
@@ -1208,7 +1208,7 @@ He recommends:
 - Replay.
 - Repetitions / reps.
 
-![alt text](images/image-47.png)
+![alt text](images/image-47.webp)
 
 ## F.6 Choose one strategy
 
@@ -1220,7 +1220,7 @@ Choose a strategy that fits:
 
 A strategy with many setups may suit one trader and harm another.
 
-![alt text](images/image-48.png)
+![alt text](images/image-48.webp)
 
 ## F.7 Stop strategy hopping
 
@@ -1235,7 +1235,7 @@ Focus on one process and execute it properly.
 If the strategy does not work:
 
 - Consistent execution will reveal that.
-![alt text](images/image-49.png)
+![alt text](images/image-49.webp)
 
 ## F.8 Adjust to regime changes
 
@@ -1248,7 +1248,7 @@ Once execution becomes consistent repetition, Chris says the next job is to keep
 Then:
 
 - Adjust.
-![alt text](images/image-50.png)
+![alt text](images/image-50.webp)
 ---
 
 # G. Final operating principle
@@ -1268,7 +1268,7 @@ Priorities:
 - Protecting yourself from bad behaviour.
 - Repeating the correct actions.
 
-![alt text](images/image-51.png)
+![alt text](images/image-51.webp)
 ---
 
 # Complete process
@@ -1426,4 +1426,4 @@ Watch regime / volatility changes
         ↓
 Adjust
 ```
-![alt text](images/image-52.png)
+![alt text](images/image-52.webp)
