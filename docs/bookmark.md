@@ -4,11 +4,11 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `A. Mental model → A.4 Different participants`
-- Current subtopic: `Full A.4 section, including its existing illustration`
-- Status: In progress — explanation and existing illustrations presented; awaiting learner confirmation.
-- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`.
-- Next topic after confirmation: `B. Trading process → 1. Environment — before the market opens` (section introduction, then `1.1 Classify value structure`).
+- Topic: `B. Trading process → 1. Environment — before the market opens`
+- Current subtopic: `Section introduction — preparation sequence before execution conditions`
+- Status: In progress — introduction presented; awaiting learner confirmation. This introduction contains no picture.
+- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`.
+- Next topic after confirmation: `1.1 Classify value structure`.
 
 ## Teaching and progress rules
 
