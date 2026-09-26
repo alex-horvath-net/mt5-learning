@@ -4,11 +4,16 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `B. Trading process → 1. Environment — before the market opens → 1.1 Classify value structure`
-- Current subtopic: `Value up, value down and sideways; existing illustration`
+- Topic: `B. Trading process → 1. Environment — before the market opens → 1.2 Read higher-timeframe structure`
+- Current subtopic: `Full 1.2 section — 1-hour/4-hour, current and previous week, price structure and value migration`
 - Status: In progress — explanation and existing illustration presented; awaiting learner confirmation.
-- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`.
-- Next topic after confirmation: `1.2 Read higher-timeframe structure`.
+- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`; `1.1 Classify value structure`.
+- Next topic after confirmation: `1.3 Understand the gamma environment`.
+
+## Implementation discussion carried forward
+
+- Section 1.1 automation remains undefined in the source. The discussed five-reference-session / two-confirmation-session / half-average-value-area-width rule is an unvalidated teaching proposal, not Chris's rule or an agreed implementation requirement.
+- Do not treat mixed/transitional evidence as definitively sideways. No implementation changes were requested.
 
 ## Teaching and progress rules
 
