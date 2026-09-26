@@ -4,15 +4,15 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `A. Mental model → A.1 Market as an auction`
-- Current subtopic: `Full A.1 section, including its two existing illustrations`
+- Topic: `A. Mental model → A.2 Forced participation`
+- Current subtopic: `Full A.2 section, including its two existing illustrations`
 - Status: In progress — explanation and existing illustrations presented; awaiting learner confirmation.
-- Completed topics since restart: `Core idea`.
-- Next topic after confirmation: `A. Mental model → A.2 Forced participation`.
+- Completed topics since restart: `Core idea`; `A.1 Market as an auction`.
+- Next topic after confirmation: `A. Mental model → A.3 Effort versus result`.
 
 ## Teaching and progress rules
 
-- Always display the current topic's existing pictures from `docs/Strategy.md` directly in the conversation when present. Reuse the repository images; do not generate new illustrations.
+- Always display the current topic's existing pictures from `docs/Strategy.md` directly in the conversation when present. Reuse the repository images; do not generate new illustrations. Download and embed local images for display because remote image links did not render for the learner.
 
 - Follow the exact headings, hierarchy, terminology and topic order in `docs/Strategy.md`, starting with Core idea.
 - Teach one small topic at a time in concise, plain English. Do not advance until the learner asks or confirms readiness.
