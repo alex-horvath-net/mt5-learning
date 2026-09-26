@@ -113,7 +113,7 @@ Examples Chris mentions:
 # B. Trading process
 
 <details>
-<summary><strong>1. Environment , before the market opens</strong></summary>
+<summary><strong>1. Environment, before the market opens</strong></summary>
 
 # 1. Environment — before the market opens
 
@@ -441,7 +441,7 @@ The goal is to arrive at the open with a plan instead of reacting impulsively to
 </details>
 
 <details>
-<summary><strong>2. Location , where do I want to do business?</strong></summary>
+<summary><strong>2. Location, where do I want to do business?</strong></summary>
 
 # 2. Location — where do I want to do business?
 
@@ -596,7 +596,7 @@ At that point:
 </details>
 
 <details>
-<summary><strong>4. Confirmation , order flow</strong></summary>
+<summary><strong>4. Confirmation, order flow</strong></summary>
 
 # 4. Confirmation — order flow
 
