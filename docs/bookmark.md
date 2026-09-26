@@ -4,11 +4,11 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `Core idea`
-- Current subtopic: `Context before entry`
-- Status: Understood — learner confirmed Core idea is clear. Awaiting request to start the next topic.
+- Topic: `A. Mental model → A.1 Market as an auction`
+- Current subtopic: `Full A.1 section, including its two existing illustrations`
+- Status: In progress — explanation and existing illustrations presented; awaiting learner confirmation.
 - Completed topics since restart: `Core idea`.
-- Next topic after confirmation: `A. Mental model → A.1 Market as an auction`.
+- Next topic after confirmation: `A. Mental model → A.2 Forced participation`.
 
 ## Teaching and progress rules
 
