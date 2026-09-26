@@ -4,11 +4,11 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `B. Trading process → 1. Environment — before the market opens → 1.2 Read higher-timeframe structure`
-- Current subtopic: `Full 1.2 section — 1-hour/4-hour, current and previous week, price structure and value migration`
+- Topic: `B. Trading process → 1. Environment — before the market opens → 1.3 Understand the gamma environment`
+- Current subtopic: `Gamma environment overview — GEX, positive/negative gamma and existing illustration`
 - Status: In progress — explanation and existing illustration presented; awaiting learner confirmation.
-- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`; `1.1 Classify value structure`.
-- Next topic after confirmation: `1.3 Understand the gamma environment`.
+- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`; `1.1 Classify value structure`; `1.2 Read higher-timeframe structure`.
+- Next topic after confirmation: `1.4 Mark GEX reference levels`.
 
 ## Implementation discussion carried forward
 
