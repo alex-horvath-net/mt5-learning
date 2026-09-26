@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="857.99952pt" height="584.39952pt" viewBox="0 0 857.99952 584.39952" xmlns="http://www.w3.org/2000/svg" version="1.1"><metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 584.39952 
+L 857.99952 584.39952 
+L 857.99952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 85.183984 230.66737 
+L 850.79952 230.66737 
+L 850.79952 43.560011 
+L 85.183984 43.560011 
+z
+" style="fill: #ffffff"/></g><g id="patch_3"><path d="M 116.780816 218.530677 
+L 150.808173 218.530677 
+L 150.808173 198.302854 
+L 116.780816 198.302854 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_4"><path d="M 177.543954 198.302854 
+L 211.571311 198.302854 
+L 211.571311 178.075031 
+L 177.543954 178.075031 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_5"><path d="M 238.307091 188.188943 
+L 272.334449 188.188943 
+L 272.334449 178.075031 
+L 238.307091 178.075031 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_6"><path d="M 299.070229 188.188943 
+L 333.097586 188.188943 
+L 333.097586 152.790253 
+L 299.070229 152.790253 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_7"><path d="M 359.833367 139.642168 
+L 393.860724 139.642168 
+L 393.860724 122.448519 
+L 359.833367 122.448519 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_8"><path d="M 420.596505 122.448519 
+L 454.623862 122.448519 
+L 454.623862 93.118177 
+L 420.596505 93.118177 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_9"><path d="M 481.359642 99.186523 
+L 515.387 99.186523 
+L 515.387 93.118177 
+L 481.359642 93.118177 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_10"><path d="M 542.12278 99.186523 
+L 576.150137 99.186523 
+L 576.150137 58.730878 
+L 542.12278 58.730878 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_11"><path d="M 602.885918 66.822007 
+L 636.913275 66.822007 
+L 636.913275 62.776443 
+L 602.885918 62.776443 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_12"><path d="M 663.649056 62.776443 
+L 697.676413 62.776443 
+L 697.676413 58.730878 
+L 663.649056 58.730878 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_13"><path d="M 724.412193 58.730878 
+L 758.439551 58.730878 
+L 758.439551 56.708096 
+L 724.412193 56.708096 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_14"><path d="M 785.175331 64.799225 
+L 819.202688 64.799225 
+L 819.202688 56.708096 
+L 785.175331 56.708096 
+z
+" clip-path="url(#pd1641ff8ba)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><defs><path id="mffb67aaea8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#mffb67aaea8" x="133.794495" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_1"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(77.264395 283.034852) rotate(-35)">09-22 08:00</text></g></g><g id="xtick_2"><g id="line2d_2"><g><use xlink:href="#mffb67aaea8" x="194.557632" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_2"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(138.027532 283.034852) rotate(-35)">09-22 09:00</text></g></g><g id="xtick_3"><g id="line2d_3"><g><use xlink:href="#mffb67aaea8" x="255.32077" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_3"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(198.79067 283.034852) rotate(-35)">09-22 10:00</text></g></g><g id="xtick_4"><g id="line2d_4"><g><use xlink:href="#mffb67aaea8" x="316.083908" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_4"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(259.553808 283.034852) rotate(-35)">09-22 11:00</text></g></g><g id="xtick_5"><g id="line2d_5"><g><use xlink:href="#mffb67aaea8" x="376.847046" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_5"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(320.316946 283.034852) rotate(-35)">09-23 08:00</text></g></g><g id="xtick_6"><g id="line2d_6"><g><use xlink:href="#mffb67aaea8" x="437.610183" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_6"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(381.080083 283.034852) rotate(-35)">09-23 09:00</text></g></g><g id="xtick_7"><g id="line2d_7"><g><use xlink:href="#mffb67aaea8" x="498.373321" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_7"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(441.843221 283.034852) rotate(-35)">09-23 10:00</text></g></g><g id="xtick_8"><g id="line2d_8"><g><use xlink:href="#mffb67aaea8" x="559.136459" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_8"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(502.606359 283.034852) rotate(-35)">09-23 11:00</text></g></g><g id="xtick_9"><g id="line2d_9"><g><use xlink:href="#mffb67aaea8" x="619.899597" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_9"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(563.369497 283.034852) rotate(-35)">09-24 04:00</text></g></g><g id="xtick_10"><g id="line2d_10"><g><use xlink:href="#mffb67aaea8" x="680.662734" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_10"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(624.132634 283.034852) rotate(-35)">09-24 05:00</text></g></g><g id="xtick_11"><g id="line2d_11"><g><use xlink:href="#mffb67aaea8" x="741.425872" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_11"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(684.895772 283.034852) rotate(-35)">09-24 06:00</text></g></g><g id="xtick_12"><g id="line2d_12"><g><use xlink:href="#mffb67aaea8" x="802.18901" y="230.66737" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_12"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(745.65891 283.034852) rotate(-35)">09-24 07:00</text></g></g><g id="text_13"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="297.557807" transform="rotate(-0 467.991752 297.557807)">Candle start, EDT (UTC-04:00); simulated</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_13"><path d="M 85.183984 223.587632 
+L 850.79952 223.587632 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_14"><defs><path id="ma34cace2fe" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#ma34cace2fe" x="85.183984" y="223.587632" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_14"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="227.766343" transform="rotate(-0 78.183984 227.766343)">19,925.00</text></g></g><g id="ytick_2"><g id="line2d_15"><path d="M 85.183984 198.302854 
+L 850.79952 198.302854 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_16"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="198.302854" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_15"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="202.481565" transform="rotate(-0 78.183984 202.481565)">19,950.00</text></g></g><g id="ytick_3"><g id="line2d_17"><path d="M 85.183984 173.018076 
+L 850.79952 173.018076 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_18"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="173.018076" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_16"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="177.196787" transform="rotate(-0 78.183984 177.196787)">19,975.00</text></g></g><g id="ytick_4"><g id="line2d_19"><path d="M 85.183984 147.733298 
+L 850.79952 147.733298 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_20"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="147.733298" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_17"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="151.912008" transform="rotate(-0 78.183984 151.912008)">20,000.00</text></g></g><g id="ytick_5"><g id="line2d_21"><path d="M 85.183984 122.448519 
+L 850.79952 122.448519 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_22"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="122.448519" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_18"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="126.62723" transform="rotate(-0 78.183984 126.62723)">20,025.00</text></g></g><g id="ytick_6"><g id="line2d_23"><path d="M 85.183984 97.163741 
+L 850.79952 97.163741 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_24"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="97.163741" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_19"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="101.342452" transform="rotate(-0 78.183984 101.342452)">20,050.00</text></g></g><g id="ytick_7"><g id="line2d_25"><path d="M 85.183984 71.878963 
+L 850.79952 71.878963 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_26"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="71.878963" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_20"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="76.057674" transform="rotate(-0 78.183984 76.057674)">20,075.00</text></g></g><g id="ytick_8"><g id="line2d_27"><path d="M 85.183984 46.594185 
+L 850.79952 46.594185 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_28"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="46.594185" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_21"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="50.772896" transform="rotate(-0 78.183984 50.772896)">20,100.00</text></g></g><g id="text_22"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="15.558281" y="137.113691" transform="rotate(-90 15.558281 137.113691)">MNQ price (index points)</text></g></g><g id="LineCollection_1"><path d="M 133.794495 228.644588 
+L 133.794495 193.245898 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_2"><path d="M 194.557632 203.35981 
+L 194.557632 167.96112 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_3"><path d="M 255.32077 198.302854 
+L 255.32077 173.018076 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_4"><path d="M 316.083908 193.245898 
+L 316.083908 137.619386 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_5"><path d="M 376.847046 147.733298 
+L 376.847046 117.391564 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_6"><path d="M 437.610183 125.482693 
+L 437.610183 87.04983 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_7"><path d="M 498.373321 107.277652 
+L 498.373321 91.095394 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_8"><path d="M 559.136459 101.209306 
+L 559.136459 46.594185 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_9"><path d="M 619.899597 72.890354 
+L 619.899597 56.708096 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_10"><path d="M 680.662734 70.867572 
+L 680.662734 52.662531 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_11"><path d="M 741.425872 66.822007 
+L 741.425872 50.639749 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_12"><path d="M 802.18901 68.844789 
+L 802.18901 52.662531 
+" clip-path="url(#pd1641ff8ba)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="patch_15"><path d="M 85.183984 230.66737 
+L 85.183984 43.560011 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_16"><path d="M 85.183984 230.66737 
+L 850.79952 230.66737 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_23"><text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="37.560011" transform="rotate(-0 467.991752 37.560011)">Known at 08:40; 1-hour extracts completed by 08:00; date gaps</text></g></g><g id="axes_2"><g id="patch_17"><path d="M 85.183984 507.666505 
+L 850.79952 507.666505 
+L 850.79952 320.559146 
+L 85.183984 320.559146 
+z
+" style="fill: #ffffff"/></g><g id="patch_18"><path d="M 195.772895 495.529812 
+L 314.868645 495.529812 
+L 314.868645 429.789388 
+L 195.772895 429.789388 
+z
+" clip-path="url(#p1181597e55)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_19"><path d="M 408.443877 416.641303 
+L 527.539627 416.641303 
+L 527.539627 335.730013 
+L 408.443877 335.730013 
+z
+" clip-path="url(#p1181597e55)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_20"><path d="M 621.114859 343.821142 
+L 740.210609 343.821142 
+L 740.210609 341.79836 
+L 621.114859 341.79836 
+z
+" clip-path="url(#p1181597e55)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="matplotlib.axis_3"><g id="xtick_13"><g id="line2d_29"><g><use xlink:href="#mffb67aaea8" x="255.32077" y="507.666505" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_24"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(198.79067 560.033987) rotate(-35)">09-22 08:00</text></g></g><g id="xtick_14"><g id="line2d_30"><g><use xlink:href="#mffb67aaea8" x="467.991752" y="507.666505" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_25"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(411.461652 560.033987) rotate(-35)">09-23 08:00</text></g></g><g id="xtick_15"><g id="line2d_31"><g><use xlink:href="#mffb67aaea8" x="680.662734" y="507.666505" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_26"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(624.132634 560.033987) rotate(-35)">09-24 04:00</text></g></g><g id="text_27"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="574.556942" transform="rotate(-0 467.991752 574.556942)">Candle start, EDT (UTC-04:00); simulated</text></g></g><g id="matplotlib.axis_4"><g id="ytick_9"><g id="line2d_32"><path d="M 85.183984 500.586767 
+L 850.79952 500.586767 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_33"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="500.586767" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_28"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="504.765478" transform="rotate(-0 78.183984 504.765478)">19,925.00</text></g></g><g id="ytick_10"><g id="line2d_34"><path d="M 85.183984 475.301989 
+L 850.79952 475.301989 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_35"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="475.301989" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_29"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="479.4807" transform="rotate(-0 78.183984 479.4807)">19,950.00</text></g></g><g id="ytick_11"><g id="line2d_36"><path d="M 85.183984 450.017211 
+L 850.79952 450.017211 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_37"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="450.017211" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_30"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="454.195922" transform="rotate(-0 78.183984 454.195922)">19,975.00</text></g></g><g id="ytick_12"><g id="line2d_38"><path d="M 85.183984 424.732433 
+L 850.79952 424.732433 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_39"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="424.732433" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_31"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="428.911143" transform="rotate(-0 78.183984 428.911143)">20,000.00</text></g></g><g id="ytick_13"><g id="line2d_40"><path d="M 85.183984 399.447654 
+L 850.79952 399.447654 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_41"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="399.447654" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_32"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="403.626365" transform="rotate(-0 78.183984 403.626365)">20,025.00</text></g></g><g id="ytick_14"><g id="line2d_42"><path d="M 85.183984 374.162876 
+L 850.79952 374.162876 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_43"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="374.162876" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_33"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="378.341587" transform="rotate(-0 78.183984 378.341587)">20,050.00</text></g></g><g id="ytick_15"><g id="line2d_44"><path d="M 85.183984 348.878098 
+L 850.79952 348.878098 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_45"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="348.878098" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_34"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="353.056809" transform="rotate(-0 78.183984 353.056809)">20,075.00</text></g></g><g id="ytick_16"><g id="line2d_46"><path d="M 85.183984 323.59332 
+L 850.79952 323.59332 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_47"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="323.59332" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_35"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="327.772031" transform="rotate(-0 78.183984 327.772031)">20,100.00</text></g></g><g id="text_36"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="15.558281" y="414.112826" transform="rotate(-90 15.558281 414.112826)">MNQ price (index points)</text></g></g><g id="LineCollection_13"><path d="M 255.32077 505.643723 
+L 255.32077 414.618521 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_14"><path d="M 467.991752 424.732433 
+L 467.991752 323.59332 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_15"><path d="M 680.662734 349.889489 
+L 680.662734 327.638884 
+" clip-path="url(#p1181597e55)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="patch_21"><path d="M 85.183984 507.666505 
+L 85.183984 320.559146 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_22"><path d="M 85.183984 507.666505 
+L 850.79952 507.666505 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_37"><text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="314.559146" transform="rotate(-0 467.991752 314.559146)">4-hour bars aggregated from each group of four hourly bars</text></g></g><g id="text_38"><text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="19.3575" transform="rotate(-0 428.99976 19.3575)">Higher-timeframe context, before execution</text></g></g><defs><clipPath id="pd1641ff8ba"><rect x="85.183984" y="43.560011" width="765.615536" height="187.107359"/></clipPath><clipPath id="p1181597e55"><rect x="85.183984" y="320.559146" width="765.615536" height="187.107359"/></clipPath></defs></svg>

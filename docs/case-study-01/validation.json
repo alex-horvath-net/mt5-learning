@@ -1,0 +1,12 @@
+{
+  "figures": 23,
+  "svg_bytes": 312069,
+  "data_sha256": "9c6a23058dd860b2370f322e21b08e38fa8cd217a981dcd25735bf95dcf4dde8",
+  "gross_risk": 29,
+  "stressed_risk_with_costs": 31,
+  "gross_profit": 48.5,
+  "net_profit": 47,
+  "net_R_price_risk": 1.6206896551724137,
+  "net_R_stressed_risk": 1.5161290322580645,
+  "validation": "Passed OHLC, tick, aggregation, volume, delta, stop chronology and P&L checks."
+}

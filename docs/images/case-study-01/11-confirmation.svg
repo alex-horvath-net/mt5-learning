@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="857.99952pt" height="425.99952pt" viewBox="0 0 857.99952 425.99952" xmlns="http://www.w3.org/2000/svg" version="1.1"><metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 425.99952 
+L 857.99952 425.99952 
+L 857.99952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 85.183984 369.605257 
+L 850.79952 369.605257 
+L 850.79952 50.800167 
+L 85.183984 50.800167 
+z
+" style="fill: #ffffff"/></g><g id="patch_3"><path d="M 171.731828 245.314774 
+L 264.937197 245.314774 
+L 264.937197 145.882387 
+L 171.731828 145.882387 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_4"><path d="M 338.169987 245.314774 
+L 431.375357 245.314774 
+L 431.375357 220.456677 
+L 338.169987 220.456677 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_5"><path d="M 504.608147 270.17287 
+L 597.813517 270.17287 
+L 597.813517 220.456677 
+L 504.608147 220.456677 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_6"><path d="M 671.046307 270.17287 
+L 764.251677 270.17287 
+L 764.251677 170.740484 
+L 671.046307 170.740484 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><defs><path id="mffb67aaea8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#mffb67aaea8" x="218.334512" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_1"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(190.85116 401.633987) rotate(-35)">09:40</text></g></g><g id="xtick_2"><g id="line2d_2"><g><use xlink:href="#mffb67aaea8" x="384.772672" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_2"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(357.28932 401.633987) rotate(-35)">09:45</text></g></g><g id="xtick_3"><g id="line2d_3"><g><use xlink:href="#mffb67aaea8" x="551.210832" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_3"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(523.72748 401.633987) rotate(-35)">09:50</text></g></g><g id="xtick_4"><g id="line2d_4"><g><use xlink:href="#mffb67aaea8" x="717.648992" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_4"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(690.16564 401.633987) rotate(-35)">09:55</text></g></g><g id="text_5"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="416.156942" transform="rotate(-0 467.991752 416.156942)">Candle start, EDT (UTC-04:00); simulated</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_5"><path d="M 85.183984 332.318112 
+L 850.79952 332.318112 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_6"><defs><path id="ma34cace2fe" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#ma34cace2fe" x="85.183984" y="332.318112" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_6"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="336.496823" transform="rotate(-0 78.183984 336.496823)">20,015.00</text></g></g><g id="ytick_2"><g id="line2d_7"><path d="M 85.183984 270.17287 
+L 850.79952 270.17287 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_8"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="270.17287" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_7"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="274.351581" transform="rotate(-0 78.183984 274.351581)">20,020.00</text></g></g><g id="ytick_3"><g id="line2d_9"><path d="M 85.183984 208.027629 
+L 850.79952 208.027629 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_10"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="208.027629" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_8"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="212.20634" transform="rotate(-0 78.183984 212.20634)">20,025.00</text></g></g><g id="ytick_4"><g id="line2d_11"><path d="M 85.183984 145.882387 
+L 850.79952 145.882387 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_12"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="145.882387" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_9"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="150.061098" transform="rotate(-0 78.183984 150.061098)">20,030.00</text></g></g><g id="ytick_5"><g id="line2d_13"><path d="M 85.183984 83.737146 
+L 850.79952 83.737146 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_14"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="83.737146" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_10"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="87.915856" transform="rotate(-0 78.183984 87.915856)">20,035.00</text></g></g><g id="text_11"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="15.558281" y="210.202712" transform="rotate(-90 15.558281 210.202712)">MNQ price (index points)</text></g></g><g id="LineCollection_1"><path d="M 218.334512 344.74716 
+L 218.334512 133.453339 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_2"><path d="M 384.772672 270.17287 
+L 384.772672 208.027629 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_3"><path d="M 551.210832 291.923705 
+L 551.210832 211.134891 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_4"><path d="M 717.648992 273.280132 
+L 717.648992 158.311435 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="line2d_15"><path d="M 85.183984 344.74716 
+L 850.79952 344.74716 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c44949"/></g><g id="line2d_16"><path d="M 85.183984 291.923705 
+L 850.79952 291.923705 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #b97714"/></g><g id="line2d_17"><path d="M 85.183984 208.027629 
+L 850.79952 208.027629 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #3276b5"/></g><g id="patch_7"><path d="M 85.183984 369.605257 
+L 85.183984 50.800168 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_8"><path d="M 85.183984 369.605257 
+L 850.79952 369.605257 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_12"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="36.800167" transform="rotate(-0 467.991752 36.800167)">Known at 10:00 EDT; completed 5-minute candles only</text></g><g id="legend_1"><g id="patch_9"><path d="M 669.964207 98.502277 
+L 844.49952 98.502277 
+Q 846.29952 98.502277 846.29952 96.702277 
+L 846.29952 57.100167 
+Q 846.29952 55.300167 844.49952 55.300167 
+L 669.964207 55.300167 
+Q 668.164207 55.300167 668.164207 57.100167 
+L 668.164207 96.702277 
+Q 668.164207 98.502277 669.964207 98.502277 
+z
+" style="fill: #ffffff; opacity: 0.95; stroke: #cccccc; stroke-linejoin: miter"/></g><g id="line2d_18"><path d="M 671.764207 62.588761 
+L 680.764207 62.588761 
+L 689.764207 62.588761 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c44949"/></g><g id="text_13"><text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="696.964208" y="65.738761" transform="rotate(-0 696.964208 65.738761)">First low: 20,014.00</text></g><g id="line2d_19"><path d="M 671.764207 76.089464 
+L 680.764207 76.089464 
+L 689.764207 76.089464 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #b97714"/></g><g id="text_14"><text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="696.964208" y="79.239464" transform="rotate(-0 696.964208 79.239464)">Higher second low: 20,018.25</text></g><g id="line2d_20"><path d="M 671.764207 89.590167 
+L 680.764207 89.590167 
+L 689.764207 89.590167 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #3276b5"/></g><g id="text_15"><text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="696.964208" y="92.740167" transform="rotate(-0 696.964208 92.740167)">Broken rebound high: 20,025.00</text></g></g></g><g id="text_16"><text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="19.3575" transform="rotate(-0 428.99976 19.3575)">Confirmation completes before the order is submitted</text></g></g><defs><clipPath id="p40d85e6b01"><rect x="85.183984" y="50.800167" width="765.615536" height="318.805089"/></clipPath></defs></svg>

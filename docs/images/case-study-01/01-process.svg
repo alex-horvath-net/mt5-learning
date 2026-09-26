@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="857.99952pt" height="332.39952pt" viewBox="0 0 857.99952 332.39952" xmlns="http://www.w3.org/2000/svg" version="1.1"><metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 332.39952 
+L 857.99952 332.39952 
+L 857.99952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 15.635995 307.363562 
+L 205.445887 307.363562 
+Q 208.609385 307.363562 208.609385 303.247572 
+L 208.609385 83.72809 
+Q 208.609385 79.6121 205.445887 79.6121 
+L 15.635995 79.6121 
+Q 12.472497 79.6121 12.472497 83.72809 
+L 12.472497 303.247572 
+Q 12.472497 307.363562 15.635995 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #3276b5; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="patch_3"><path d="M 226.535875 307.363562 
+L 416.345767 307.363562 
+Q 419.509265 307.363562 419.509265 303.247572 
+L 419.509265 83.72809 
+Q 419.509265 79.6121 416.345767 79.6121 
+L 226.535875 79.6121 
+Q 223.372377 79.6121 223.372377 83.72809 
+L 223.372377 303.247572 
+Q 223.372377 307.363562 226.535875 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #b97714; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="patch_4"><path d="M 437.435755 307.363562 
+L 627.245647 307.363562 
+Q 630.409145 307.363562 630.409145 303.247572 
+L 630.409145 83.72809 
+Q 630.409145 79.6121 627.245647 79.6121 
+L 437.435755 79.6121 
+Q 434.272257 79.6121 434.272257 83.72809 
+L 434.272257 303.247572 
+Q 434.272257 307.363562 437.435755 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #16806a; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="patch_5"><path d="M 648.335635 307.363562 
+L 838.145527 307.363562 
+Q 841.309025 307.363562 841.309025 303.247572 
+L 841.309025 83.72809 
+Q 841.309025 79.6121 838.145527 79.6121 
+L 648.335635 79.6121 
+Q 645.172137 79.6121 645.172137 83.72809 
+L 645.172137 303.247572 
+Q 645.172137 307.363562 648.335635 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #15334c; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="text_1"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #3276b5" x="110.540941" y="120.285213" transform="rotate(-0 110.540941 120.285213)">08:30-09:30</text></g><g id="text_2"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(66.931957 169.756931)">Prepare context</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(73.408207 189.141852)">Mark location</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(60.612113 206.226227)">Set learning limits</text></g><g id="patch_6"><path d="M 209.552668 193.487831 
+Q 215.989322 193.487831 221.307942 193.487831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/><path d="M 216.907942 191.287831 
+L 221.307942 193.487831 
+L 216.907942 195.687831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/></g><g id="text_3"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #b97714" x="321.440821" y="120.285213" transform="rotate(-0 321.440821 120.285213)">09:30-10:00</text></g><g id="text_4"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(274.839493 170.991852)">Wait for discount</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(264.716915 189.141852)">Observe two failures</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(279.272149 206.226227)">Confirm buyers</text></g><g id="patch_7"><path d="M 420.452548 193.487831 
+Q 426.889202 193.487831 432.207822 193.487831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/><path d="M 427.807822 191.287831 
+L 432.207822 193.487831 
+L 427.807822 195.687831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/></g><g id="text_5"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #16806a" x="532.340701" y="120.28615" transform="rotate(-0 532.340701 120.28615)">10:00 onward</text></g><g id="text_6"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(481.199295 170.991852)">Execute one micro</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(478.587654 188.076227)">Protect the position</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(476.640311 207.291852)">Read effort vs result</text></g><g id="patch_8"><path d="M 631.352428 193.487831 
+Q 637.789082 193.487831 643.107702 193.487831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/><path d="M 638.707702 191.287831 
+L 643.107702 193.487831 
+L 638.707702 195.687831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/></g><g id="text_7"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="743.240581" y="120.28615" transform="rotate(-0 743.240581 120.28615)">After the trade</text></g><g id="text_8"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(694.419487 170.991852)">Record actual fills</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(697.920581 189.141852)">Grade execution</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(697.350816 206.226227)">Replay decisions</text></g><g id="text_9"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="36.800167" transform="rotate(-0 428.99976 36.800167)">Simulated case study; read left to right</text></g></g><g id="text_10"><text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="19.3575" transform="rotate(-0 428.99976 19.3575)">One session, one decision chain</text></g></g><defs><clipPath id="p0898fdf1c3"><rect x="7.2" y="50.800167" width="843.59952" height="274.399353"/></clipPath></defs></svg>

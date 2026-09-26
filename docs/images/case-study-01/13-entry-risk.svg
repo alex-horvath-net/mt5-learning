@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="857.99952pt" height="425.99952pt" viewBox="0 0 857.99952 425.99952" xmlns="http://www.w3.org/2000/svg" version="1.1"><metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 425.99952 
+L 857.99952 425.99952 
+L 857.99952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 85.183984 369.605257 
+L 850.79952 369.605257 
+L 850.79952 50.800167 
+L 85.183984 50.800167 
+z
+" style="fill: #ffffff"/></g><g id="patch_3"><path d="M 171.731828 292.652304 
+L 264.937197 292.652304 
+L 264.937197 248.679188 
+L 171.731828 248.679188 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_4"><path d="M 338.169987 292.652304 
+L 431.375357 292.652304 
+L 431.375357 281.659025 
+L 338.169987 281.659025 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="patch_5"><path d="M 504.608147 303.645583 
+L 597.813517 303.645583 
+L 597.813517 281.659025 
+L 504.608147 281.659025 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_6"><path d="M 671.046307 303.645583 
+L 764.251677 303.645583 
+L 764.251677 259.672467 
+L 671.046307 259.672467 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #16806a; stroke: #16806a; stroke-linejoin: miter"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><defs><path id="mffb67aaea8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#mffb67aaea8" x="218.334512" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_1"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(190.85116 401.633987) rotate(-35)">09:40</text></g></g><g id="xtick_2"><g id="line2d_2"><g><use xlink:href="#mffb67aaea8" x="384.772672" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_2"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(357.28932 401.633987) rotate(-35)">09:45</text></g></g><g id="xtick_3"><g id="line2d_3"><g><use xlink:href="#mffb67aaea8" x="551.210832" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_3"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(523.72748 401.633987) rotate(-35)">09:50</text></g></g><g id="xtick_4"><g id="line2d_4"><g><use xlink:href="#mffb67aaea8" x="717.648992" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_4"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(690.16564 401.633987) rotate(-35)">09:55</text></g></g><g id="text_5"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="416.156942" transform="rotate(-0 467.991752 416.156942)">Candle start, EDT (UTC-04:00); simulated</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_5"><path d="M 85.183984 358.611978 
+L 850.79952 358.611978 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_6"><defs><path id="ma34cace2fe" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#ma34cace2fe" x="85.183984" y="358.611978" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_6"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="362.790689" transform="rotate(-0 78.183984 362.790689)">20,010.00</text></g></g><g id="ytick_2"><g id="line2d_7"><path d="M 85.183984 303.645583 
+L 850.79952 303.645583 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_8"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="303.645583" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_7"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="307.824294" transform="rotate(-0 78.183984 307.824294)">20,020.00</text></g></g><g id="ytick_3"><g id="line2d_9"><path d="M 85.183984 248.679188 
+L 850.79952 248.679188 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_10"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="248.679188" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_8"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="252.857899" transform="rotate(-0 78.183984 252.857899)">20,030.00</text></g></g><g id="ytick_4"><g id="line2d_11"><path d="M 85.183984 193.712794 
+L 850.79952 193.712794 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_12"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="193.712794" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_9"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="197.891505" transform="rotate(-0 78.183984 197.891505)">20,040.00</text></g></g><g id="ytick_5"><g id="line2d_13"><path d="M 85.183984 138.746399 
+L 850.79952 138.746399 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_14"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="138.746399" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_10"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="142.92511" transform="rotate(-0 78.183984 142.92511)">20,050.00</text></g></g><g id="ytick_6"><g id="line2d_15"><path d="M 85.183984 83.780004 
+L 850.79952 83.780004 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_16"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="83.780004" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_11"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="87.958715" transform="rotate(-0 78.183984 87.958715)">20,060.00</text></g></g><g id="text_12"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="15.558281" y="210.202712" transform="rotate(-90 15.558281 210.202712)">MNQ price (index points)</text></g></g><g id="LineCollection_1"><path d="M 218.334512 336.62542 
+L 218.334512 243.182549 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_2"><path d="M 384.772672 303.645583 
+L 384.772672 276.162386 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="LineCollection_3"><path d="M 551.210832 313.264702 
+L 551.210832 277.536546 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_4"><path d="M 717.648992 305.019743 
+L 717.648992 254.175828 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #16806a; stroke-width: 1.5"/></g><g id="line2d_17"><path d="M 85.183984 258.298307 
+L 850.79952 258.298307 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #16806a"/></g><g id="line2d_18"><path d="M 85.183984 337.99958 
+L 850.79952 337.99958 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c44949"/></g><g id="line2d_19"><path d="M 85.183984 83.780004 
+L 850.79952 83.780004 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #3276b5"/></g><g id="line2d_20"><path d="M 85.183984 215.699352 
+L 850.79952 215.699352 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #b97714"/></g><g id="patch_7"><path d="M 85.183984 369.605257 
+L 85.183984 50.800167 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_8"><path d="M 85.183984 369.605257 
+L 850.79952 369.605257 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_13"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="36.800167" transform="rotate(-0 467.991752 36.800167)">No later candles are shown; one MNQ contract</text></g><g id="legend_1"><g id="patch_9"><path d="M 92.183984 118.803292 
+L 293.379297 118.803292 
+Q 295.379297 118.803292 295.379297 116.803292 
+L 295.379297 57.800167 
+Q 295.379297 55.800167 293.379297 55.800167 
+L 92.183984 55.800167 
+Q 90.183984 55.800167 90.183984 57.800167 
+L 90.183984 116.803292 
+Q 90.183984 118.803292 92.183984 118.803292 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/></g><g id="line2d_21"><path d="M 94.183984 63.898605 
+L 104.183984 63.898605 
+L 114.183984 63.898605 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #16806a"/></g><g id="text_14"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="122.183984" y="67.398605" transform="rotate(-0 122.183984 67.398605)">Actual buy fill: 20,028.25</text></g><g id="line2d_22"><path d="M 94.183984 78.899386 
+L 104.183984 78.899386 
+L 114.183984 78.899386 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c44949"/></g><g id="text_15"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="122.183984" y="82.399386" transform="rotate(-0 122.183984 82.399386)">Protective stop trigger: 20,013.75</text></g><g id="line2d_23"><path d="M 94.183984 93.900167 
+L 104.183984 93.900167 
+L 114.183984 93.900167 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #3276b5"/></g><g id="text_16"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="122.183984" y="97.400167" transform="rotate(-0 122.183984 97.400167)">Prior structural target: 20,060.00</text></g><g id="line2d_24"><path d="M 94.183984 108.900949 
+L 104.183984 108.900949 
+L 114.183984 108.900949 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #b97714"/></g><g id="text_17"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="122.183984" y="112.400949" transform="rotate(-0 122.183984 112.400949)">Reclaim value: 20,036.00</text></g></g></g><g id="text_18"><text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="19.3575" transform="rotate(-0 428.99976 19.3575)">The order plan at 10:00</text></g></g><defs><clipPath id="p40d85e6b01"><rect x="85.183984" y="50.800167" width="765.615536" height="318.805089"/></clipPath></defs></svg>

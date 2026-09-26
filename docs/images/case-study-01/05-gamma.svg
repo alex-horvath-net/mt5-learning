@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="857.99952pt" height="332.39952pt" viewBox="0 0 857.99952 332.39952" xmlns="http://www.w3.org/2000/svg" version="1.1"><metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 332.39952 
+L 857.99952 332.39952 
+L 857.99952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 18.447994 307.363562 
+L 271.52785 307.363562 
+Q 275.745847 307.363562 275.745847 303.247572 
+L 275.745847 83.72809 
+Q 275.745847 79.6121 271.52785 79.6121 
+L 18.447994 79.6121 
+Q 14.229996 79.6121 14.229996 83.72809 
+L 14.229996 303.247572 
+Q 14.229996 307.363562 18.447994 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #c44949; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="patch_3"><path d="M 299.647834 307.363562 
+L 552.72769 307.363562 
+Q 556.945687 307.363562 556.945687 303.247572 
+L 556.945687 83.72809 
+Q 556.945687 79.6121 552.72769 79.6121 
+L 299.647834 79.6121 
+Q 295.429836 79.6121 295.429836 83.72809 
+L 295.429836 303.247572 
+Q 295.429836 307.363562 299.647834 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #3276b5; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="patch_4"><path d="M 580.847674 307.363562 
+L 833.92753 307.363562 
+Q 838.145527 307.363562 838.145527 303.247572 
+L 838.145527 83.72809 
+Q 838.145527 79.6121 833.92753 79.6121 
+L 580.847674 79.6121 
+Q 576.629676 79.6121 576.629676 83.72809 
+L 576.629676 303.247572 
+Q 576.629676 307.363562 580.847674 307.363562 
+z
+" clip-path="url(#p0898fdf1c3)" style="fill: #f4f8fb; stroke: #15334c; stroke-width: 1.5; stroke-linejoin: miter"/></g><g id="text_1"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #c44949" x="144.987922" y="120.28615" transform="rotate(-0 144.987922 120.28615)">Negative gamma</text></g><g id="text_2"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(116.919015 170.991852)">Price rises</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(82.128078 188.076227)">Dealer hedge may buy</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(85.871515 206.226227)">Move may accelerate</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(144.987922 221.340915)"/><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(118.594797 243.591852)">Price falls</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(83.055343 260.676227)">Dealer hedge may sell</text></g><g id="patch_5"><path d="M 276.341749 193.487831 
+Q 285.589355 193.487831 293.718927 193.487831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/><path d="M 289.318927 191.287831 
+L 293.718927 193.487831 
+L 289.318927 195.687831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/></g><g id="text_3"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #3276b5" x="426.187762" y="120.28615" transform="rotate(-0 426.187762 120.28615)">Positive gamma</text></g><g id="text_4"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(398.118855 170.991852)">Price rises</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(364.255183 188.076227)">Dealer hedge may sell</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(373.377449 206.226227)">Move may dampen</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(426.187762 221.340915)"/><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(399.794637 243.591852)">Price falls</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(363.327918 260.676227)">Dealer hedge may buy</text></g><g id="patch_6"><path d="M 557.541589 193.487831 
+Q 566.789195 193.487831 574.918767 193.487831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/><path d="M 570.518767 191.287831 
+L 574.918767 193.487831 
+L 570.518767 195.687831 
+" style="fill: none; stroke: #15334c; stroke-linecap: round"/></g><g id="text_5"><text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="707.387602" y="120.28615" transform="rotate(-0 707.387602 120.28615)">Today, 08:50</text></g><g id="text_6"><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(638.891117 169.926227)">Supplied GEX: -120 units</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(639.013148 188.076227)">Mapped put wall: 20,000</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(638.696039 206.226227)">Mapped call wall: 20,055</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(652.33518 224.376227)">Mapped flip: 20,080</text><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(707.387602 239.490915)"/><text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #15334c" transform="translate(643.985492 260.676227)">None is an entry signal</text></g><g id="text_7"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="36.800167" transform="rotate(-0 428.99976 36.800167)">Simulated case study; read left to right</text></g></g><g id="text_8"><text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="19.3575" transform="rotate(-0 428.99976 19.3575)">Gamma changes the response to movement, not its direction</text></g></g><defs><clipPath id="p0898fdf1c3"><rect x="7.2" y="50.800167" width="843.59952" height="274.399353"/></clipPath></defs></svg>

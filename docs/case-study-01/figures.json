@@ -1,0 +1,117 @@
+[
+  {
+    "file": "01-process.svg",
+    "information_cutoff": "Plan, no outcome disclosed",
+    "caption": "One session, one decision chain"
+  },
+  {
+    "file": "02-value-history.svg",
+    "information_cutoff": "08:30",
+    "caption": "Sideways previous-week value gives way to higher accepted prices."
+  },
+  {
+    "file": "03-higher-timeframes.svg",
+    "information_cutoff": "08:40",
+    "caption": "Higher lows and a completed impulse provide context; the overnight block is balanced."
+  },
+  {
+    "file": "04-profile-location.svg",
+    "information_cutoff": "08:40",
+    "caption": "The Fib zone lies wholly below value; 20,012-20,024 is a low-volume bin."
+  },
+  {
+    "file": "05-gamma.svg",
+    "information_cutoff": "08:50",
+    "caption": "Gamma changes the response to movement, not its direction"
+  },
+  {
+    "file": "06-wait.svg",
+    "information_cutoff": "09:40",
+    "caption": "A pullback reaches the planned location"
+  },
+  {
+    "file": "07-absorption-candle.svg",
+    "information_cutoff": "09:45",
+    "caption": "First seller failure: the candle is only the result"
+  },
+  {
+    "file": "08-absorption-profile.svg",
+    "information_cutoff": "09:45",
+    "caption": "Heavy selling at the lower extreme is met by passive buying; this is not entry permission."
+  },
+  {
+    "file": "09-first-shift.svg",
+    "information_cutoff": "09:50",
+    "caption": "Buyers respond, but the second test has not happened"
+  },
+  {
+    "file": "10-second-test.svg",
+    "information_cutoff": "09:55",
+    "caption": "The second seller attempt stops higher"
+  },
+  {
+    "file": "11-confirmation.svg",
+    "information_cutoff": "10:00",
+    "caption": "Confirmation completes before the order is submitted"
+  },
+  {
+    "file": "12-footprint-and-one-minute.svg",
+    "information_cutoff": "10:00",
+    "caption": "Positive imbalance supports the already completed two-failure sequence."
+  },
+  {
+    "file": "13-entry-risk.svg",
+    "information_cutoff": "10:00",
+    "caption": "14.50 points to stop equals $29 price risk; stressed loss including costs is $31."
+  },
+  {
+    "file": "14-reclaim.svg",
+    "information_cutoff": "10:05",
+    "caption": "Buyers reclaim the lower edge of value"
+  },
+  {
+    "file": "15-participants.svg",
+    "information_cutoff": "10:05",
+    "caption": "What might be behind the rally?"
+  },
+  {
+    "file": "16-management.svg",
+    "information_cutoff": "10:15",
+    "caption": "Successful buying supports a structural trail"
+  },
+  {
+    "file": "17-stall.svg",
+    "information_cutoff": "10:20",
+    "caption": "More buyer effort, much less price progress"
+  },
+  {
+    "file": "18-exit-tape.svg",
+    "information_cutoff": "Retrospective 10:25",
+    "caption": "The stop triggers at 10:21:19; one tick of slippage gives a 20,052.50 fill."
+  },
+  {
+    "file": "19-trade-review.svg",
+    "information_cutoff": "Retrospective 10:25",
+    "caption": "One micro; gross profit $48.50, fees $1.50, net profit $47.00."
+  },
+  {
+    "file": "20-volume-fades.svg",
+    "information_cutoff": "11:00",
+    "caption": "Participation fades and the session ends"
+  },
+  {
+    "file": "21-alternative-branches.svg",
+    "information_cutoff": "Counterfactuals at their labelled stages",
+    "caption": "Four mutually exclusive continuations test the same decision rules."
+  },
+  {
+    "file": "22-discipline.svg",
+    "information_cutoff": "Review and explicitly labelled branches",
+    "caption": "Interrupt the behaviour before it becomes account damage"
+  },
+  {
+    "file": "23-review-loop.svg",
+    "information_cutoff": "After-session learning plan",
+    "caption": "The next repetition has a specific purpose"
+  }
+]

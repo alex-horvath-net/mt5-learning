@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="857.99952pt" height="425.99952pt" viewBox="0 0 857.99952 425.99952" xmlns="http://www.w3.org/2000/svg" version="1.1"><metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata><defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs><g id="figure_1"><g id="patch_1"><path d="M 0 425.99952 
+L 857.99952 425.99952 
+L 857.99952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/></g><g id="axes_1"><g id="patch_2"><path d="M 85.183984 369.605257 
+L 850.79952 369.605257 
+L 850.79952 50.800167 
+L 85.183984 50.800167 
+z
+" style="fill: #ffffff"/></g><g id="patch_3"><path d="M 195.772895 176.704606 
+L 314.868645 176.704606 
+L 314.868645 159.404099 
+L 195.772895 159.404099 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_4"><path d="M 408.443877 280.507647 
+L 527.539627 280.507647 
+L 527.539627 176.704606 
+L 408.443877 176.704606 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="patch_5"><path d="M 621.114859 315.10866 
+L 740.210609 315.10866 
+L 740.210609 280.507647 
+L 621.114859 280.507647 
+z
+" clip-path="url(#p40d85e6b01)" style="fill: #c44949; stroke: #c44949; stroke-linejoin: miter"/></g><g id="matplotlib.axis_1"><g id="xtick_1"><g id="line2d_1"><defs><path id="mffb67aaea8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#mffb67aaea8" x="255.32077" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_1"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(227.837418 401.633987) rotate(-35)">09:30</text></g></g><g id="xtick_2"><g id="line2d_2"><g><use xlink:href="#mffb67aaea8" x="467.991752" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_2"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(440.5084 401.633987) rotate(-35)">09:35</text></g></g><g id="xtick_3"><g id="line2d_3"><g><use xlink:href="#mffb67aaea8" x="680.662734" y="369.605257" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_3"><text style="font-size: 11px; font-family: 'DejaVu Sans'" transform="translate(653.179382 401.633987) rotate(-35)">09:40</text></g></g><g id="text_4"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="416.156942" transform="rotate(-0 467.991752 416.156942)">Candle start, EDT (UTC-04:00); simulated</text></g></g><g id="matplotlib.axis_2"><g id="ytick_1"><g id="line2d_4"><path d="M 85.183984 367.010181 
+L 850.79952 367.010181 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_5"><defs><path id="ma34cace2fe" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/></defs><g><use xlink:href="#ma34cace2fe" x="85.183984" y="367.010181" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_5"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="371.188892" transform="rotate(-0 78.183984 371.188892)">20,010.00</text></g></g><g id="ytick_2"><g id="line2d_6"><path d="M 85.183984 323.758914 
+L 850.79952 323.758914 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_7"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="323.758914" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_6"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="327.937625" transform="rotate(-0 78.183984 327.937625)">20,020.00</text></g></g><g id="ytick_3"><g id="line2d_8"><path d="M 85.183984 280.507647 
+L 850.79952 280.507647 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_9"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="280.507647" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_7"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="284.686358" transform="rotate(-0 78.183984 284.686358)">20,030.00</text></g></g><g id="ytick_4"><g id="line2d_10"><path d="M 85.183984 237.25638 
+L 850.79952 237.25638 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_11"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="237.25638" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_8"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="241.435091" transform="rotate(-0 78.183984 241.435091)">20,040.00</text></g></g><g id="ytick_5"><g id="line2d_12"><path d="M 85.183984 194.005113 
+L 850.79952 194.005113 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_13"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="194.005113" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_9"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="198.183824" transform="rotate(-0 78.183984 198.183824)">20,050.00</text></g></g><g id="ytick_6"><g id="line2d_14"><path d="M 85.183984 150.753846 
+L 850.79952 150.753846 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_15"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="150.753846" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_10"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="154.932556" transform="rotate(-0 78.183984 154.932556)">20,060.00</text></g></g><g id="ytick_7"><g id="line2d_16"><path d="M 85.183984 107.502579 
+L 850.79952 107.502579 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_17"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="107.502579" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_11"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="111.681289" transform="rotate(-0 78.183984 111.681289)">20,070.00</text></g></g><g id="ytick_8"><g id="line2d_18"><path d="M 85.183984 64.251312 
+L 850.79952 64.251312 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.17; stroke-width: 0.8; stroke-linecap: square"/></g><g id="line2d_19"><g><use xlink:href="#ma34cace2fe" x="85.183984" y="64.251312" style="stroke: #000000; stroke-width: 0.8"/></g></g><g id="text_12"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="78.183984" y="68.430022" transform="rotate(-0 78.183984 68.430022)">20,080.00</text></g></g><g id="text_13"><text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="15.558281" y="210.202712" transform="rotate(-90 15.558281 210.202712)">MNQ price (index points)</text></g></g><g id="LineCollection_1"><path d="M 255.32077 194.005113 
+L 255.32077 133.453339 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_2"><path d="M 467.991752 284.832773 
+L 467.991752 168.054352 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="LineCollection_3"><path d="M 680.662734 349.709674 
+L 680.662734 276.18252 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke: #c44949; stroke-width: 1.5"/></g><g id="line2d_20"><path d="M 85.183984 349.709674 
+L 850.79952 349.709674 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c44949"/></g><g id="line2d_21"><path d="M 85.183984 360.955003 
+L 850.79952 360.955003 
+" clip-path="url(#p40d85e6b01)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #b97714"/></g><g id="patch_6"><path d="M 85.183984 369.605257 
+L 85.183984 50.800167 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="patch_7"><path d="M 85.183984 369.605257 
+L 850.79952 369.605257 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/></g><g id="text_14"><text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="467.991752" y="36.800167" transform="rotate(-0 467.991752 36.800167)">Known at 09:45 EDT; completed 5-minute candles only</text></g><g id="legend_1"><g id="patch_8"><path d="M 727.329364 85.001574 
+L 844.49952 85.001574 
+Q 846.29952 85.001574 846.29952 83.201574 
+L 846.29952 57.100167 
+Q 846.29952 55.300167 844.49952 55.300167 
+L 727.329364 55.300167 
+Q 725.529364 55.300167 725.529364 57.100167 
+L 725.529364 83.201574 
+Q 725.529364 85.001574 727.329364 85.001574 
+z
+" style="fill: #ffffff; opacity: 0.95; stroke: #cccccc; stroke-linejoin: miter"/></g><g id="line2d_22"><path d="M 729.129364 62.588761 
+L 738.129364 62.588761 
+L 747.129364 62.588761 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #c44949"/></g><g id="text_15"><text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="754.329364" y="65.738761" transform="rotate(-0 754.329364 65.738761)">First low: 20,014.00</text></g><g id="line2d_23"><path d="M 729.129364 76.089464 
+L 738.129364 76.089464 
+L 747.129364 76.089464 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #b97714"/></g><g id="text_16"><text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15334c" x="754.329364" y="79.239464" transform="rotate(-0 754.329364 79.239464)">0.886: 20,011.40</text></g></g></g><g id="text_17"><text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15334c" x="428.99976" y="19.3575" transform="rotate(-0 428.99976 19.3575)">First seller failure: the candle is only the result</text></g></g><defs><clipPath id="p40d85e6b01"><rect x="85.183984" y="50.800167" width="765.615536" height="318.805089"/></clipPath></defs></svg>
