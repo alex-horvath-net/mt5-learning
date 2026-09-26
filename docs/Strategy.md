@@ -883,6 +883,7 @@ He says this is part of the reason he mainly trades:
 He sometimes trades:
 
 - Asia session.
+![alt text](image-28.png)
 
 ## C.3 MNQ versus NQ
 
@@ -892,6 +893,7 @@ He says:
 
 - He uses MNQ.
 - It works for him.
+![alt text](image-29.png)
 
 ## C.4 News filter
 
@@ -903,6 +905,7 @@ One example he gives:
 
 So important nearby news can be a reason not to take an otherwise valid setup.
 
+![alt text](image-30.png)
 ---
 
 # D. Risk and performance characteristics
@@ -925,6 +928,7 @@ His view:
 > He wants to be right, not look cool.
 
 Extra confirmation may reduce theoretical R, but he accepts that.
+![alt text](image-31.png)
 
 ## D.2 Reported performance
 
@@ -934,6 +938,7 @@ Chris reports that his results typically fluctuate around:
 - Profit factor: approximately 1.8.
 
 These are his reported results, not guarantees.
+![alt text](image-32.png)
 
 ## D.3 Prop-firm context
 
@@ -947,7 +952,7 @@ His example:
 That relationship is approximately:
 
 - 1.5R.
-
+![alt text](image-33.png)
 ---
 
 # E. Execution discipline
@@ -979,6 +984,7 @@ You can control:
 - Unnecessary losses.
 - Bad decisions.
 - Destructive C-game sessions.
+![alt text](image-34.png)
 
 ## E.2 Good loss
 
@@ -995,7 +1001,7 @@ A good loss means:
 If the trade loses anyway:
 
 - That is normal variance in a probabilistic environment.
-
+![alt text](image-35.png)
 ## E.3 Bad trade / bad loss
 
 A bad trade occurs when the process is bent because the trader wants to participate.
@@ -1015,6 +1021,7 @@ Even if the trade wins:
 
 - Chris still considers it a bad trade.
 - It reinforces bad behaviour.
+![alt text](image-36.png)
 
 ## E.4 How C-game starts
 
@@ -1035,6 +1042,7 @@ Tilt
   ↓
 Account damage
 ```
+![alt text](image-37.png)
 
 ## E.5 Rules must have actions
 
@@ -1051,6 +1059,8 @@ A useful rule must be:
 - Personal.
 - Connected to an action.
 
+![alt text](image-38.png)
+
 ## E.6 Find the breaking point
 
 Every trader has a line where calculated decisions become emotional decisions.
@@ -1063,6 +1073,8 @@ Possible triggers Chris mentions:
 - Overconfidence from winning.
 
 The trader must identify their own breaking point.
+
+![alt text](image-39.png)
 
 ## E.7 Find what happened before tilt
 
@@ -1077,6 +1089,7 @@ Chris says to identify:
 Then:
 
 - Build a solution before reaching that point again.
+![alt text](image-40.png)
 
 ## E.8 Chris's hard limits
 
@@ -1094,6 +1107,7 @@ So he does not wait for the third.
 His rule:
 
 - Stop after two consecutive losses.
+![alt text](image-41.png)
 
 ## E.9 Self-control
 
@@ -1106,6 +1120,8 @@ If Chris notices himself:
 
 He shuts the session down.
 
+![alt text](image-42.png)
+
 ---
 
 # F. Learning process
@@ -1117,6 +1133,7 @@ Chris says his turning point came when he realized he was too focused on money.
 He shifted the focus toward:
 
 - Execution.
+![alt text](image-43.png)
 
 ## F.2 Size down dramatically
 
@@ -1137,6 +1154,8 @@ The purpose was:
 Later he describes the learning size as:
 
 > So small it almost feels insulting.
+
+![alt text](image-44.png)
 
 ## F.3 Proper execution makes money the byproduct
 
@@ -1159,6 +1178,7 @@ Emotional decisions
         ↓
 Poor execution
 ```
+![alt text](image-45.png)
 
 ## F.4 Learn market mechanics
 
@@ -1175,7 +1195,7 @@ Chris recommends learning:
 - Auction market theory.
 - Order flow.
 - How to read the relevant charts.
-
+![alt text](image-46.png)
 ## F.5 Practice with replay
 
 Chris mentions platforms such as:
@@ -1188,6 +1208,8 @@ He recommends:
 - Replay.
 - Repetitions / reps.
 
+![alt text](image-47.png)
+
 ## F.6 Choose one strategy
 
 Choose a strategy that fits:
@@ -1197,6 +1219,8 @@ Choose a strategy that fits:
 - Your ability to make repeated decisions.
 
 A strategy with many setups may suit one trader and harm another.
+
+![alt text](image-48.png)
 
 ## F.7 Stop strategy hopping
 
@@ -1211,6 +1235,7 @@ Focus on one process and execute it properly.
 If the strategy does not work:
 
 - Consistent execution will reveal that.
+![alt text](image-49.png)
 
 ## F.8 Adjust to regime changes
 
@@ -1223,7 +1248,7 @@ Once execution becomes consistent repetition, Chris says the next job is to keep
 Then:
 
 - Adjust.
-
+![alt text](image-50.png)
 ---
 
 # G. Final operating principle
@@ -1243,6 +1268,7 @@ Priorities:
 - Protecting yourself from bad behaviour.
 - Repeating the correct actions.
 
+![alt text](image-51.png)
 ---
 
 # Complete process
@@ -1400,3 +1426,4 @@ Watch regime / volatility changes
         ↓
 Adjust
 ```
+![alt text](image-52.png)
