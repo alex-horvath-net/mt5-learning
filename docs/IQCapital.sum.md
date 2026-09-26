@@ -82,7 +82,7 @@
 - 2 Location
   - I want to understand where do I want to do busines?
   - I dont want to go against the value up structure
-  - I wai[text](images/IQCapital.sum.md)t for descount, when we are below of fair value
+  - I wait for descount, when we are below of fair value
   - But I don't  sell at premium, when we areabove of fair value. It could potentialy potentially continue the expansion.
   - The explosion itself is qick and dificult to predict or catch and conduct busuiness around it.
   - if the explosion low valume node

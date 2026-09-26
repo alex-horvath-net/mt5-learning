@@ -38,9 +38,9 @@ The entry is only the final part of the decision.
   - Value is being built.
   - Nobody is necessarily being forced to participate.
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 07_22_38 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 07_22_38 PM.webp>)
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 07_36_00 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 07_36_00 PM.webp>)
 - Chris is generally not interested in trading the balanced condition itself.
 - He becomes interested when one side becomes more aggressive and starts forcing participation.
 
@@ -56,9 +56,9 @@ The entry is only the final part of the decision.
 - Chris looks for participation near the edges of the auction that fails.
 - Failed participants can become trapped / offside.
 - Their exits can accelerate price in the opposite direction.
-  ![alt text](images/<ChatGPT Image Sep 21, 2026, 09_24_25 PM.webp>)
+  ![alt text](<images/ChatGPT Image Sep 21, 2026, 09_24_25 PM.webp>)
   
-  ![alt text](images/<ChatGPT Image Sep 21, 2026, 09_23_09 PM.webp>)
+  ![alt text](<images/ChatGPT Image Sep 21, 2026, 09_23_09 PM.webp>)
 
 ## A.3 Effort versus result
 
@@ -80,7 +80,7 @@ Strong effort + expected price progression
 Strong effort + little price progression
 = that side may be failing
 ```
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_36_00 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 09_36_00 PM.webp>)
 
 ## A.4 Different participants
 
@@ -99,7 +99,7 @@ Examples Chris mentions:
 > Learning note: Liquidity means enough opposite-side orders are available to execute size without moving price too much. This definition is included for clarity; Chris does not explicitly define liquidity this way in the podcast.
 
 ---
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_41_14 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 09_41_14 PM.webp>)
 
 # B. Trading process
 
@@ -179,7 +179,7 @@ Chris wants to know:
 
 > **Where is value being built over time?**
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_48_57 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 09_48_57 PM.webp>)
 
 ## 1.2 Read higher-timeframe structure
 
@@ -223,7 +223,7 @@ So the question becomes:
 
 This higher-timeframe view gives context to the later location decision.
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_49_42 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 09_49_42 PM.webp>)
 
 ## 1.3 Understand the gamma environment
 
@@ -342,7 +342,7 @@ Again:
 
 It means the environment can amplify movement in **either direction**.
 
-![alt text](images/<ChatGPT Image Sep 21, 2026, 09_52_54 PM.webp>)
+![alt text](<images/ChatGPT Image Sep 21, 2026, 09_52_54 PM.webp>)
 
 ## 1.4 Mark GEX reference levels
 
@@ -600,8 +600,7 @@ Chris calls this the:
 
 It shows the result of the auction.
 
-![alt text
-](images/image-13.webp)
+![alt text](images/image-13.webp)
 ## 4.3 What order flow adds
 
 Chris wants to see how that result was created.
@@ -2306,4 +2305,4 @@ The source's quotations embedded in illustrations have not been authenticated ag
 
 The numerical checks cover the supplied dataset and calculations. The main scenario and all branches are teaching constructions. They show how to make the documented process concrete, while leaving actual strategy validation and future automation decisions open.
 
-Validation record: the original document is preserved byte for byte as the prefix of this file. All 60 original image references are represented in the coverage audit. The 23 new figures were inspected as rendered PNG previews; their numerical inputs, candle aggregation, stop chronology, costs, and P&L pass the generator checks. Markdown conversion produced 22 tables, and all new local links and internal anchors resolve. Full browser layout inspection could not be completed because the browser preview failed to initialize.
+Validation record: the original strategy wording and existing image assets are retained, with malformed image references repaired. All 60 original image references are represented in the coverage audit. The 23 new figures were inspected as rendered PNG previews; their numerical inputs, candle aggregation, stop chronology, costs, and P&L pass the generator checks. Markdown conversion produced 22 tables, and all new local links and internal anchors resolve. Full browser layout inspection could not be completed because the browser preview failed to initialize.
