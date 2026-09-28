@@ -4,12 +4,11 @@
 
 - Strategy file: `docs/Strategy.md`
 - Restart date: `2026-09-26`
-- Topic: `B. Trading process → 1. Environment — before the market opens → 1.4 Mark GEX reference levels`
-- Current subtopic: `Introduction — call wall, put wall and gamma flip zone`
-- Status: In progress — opening sentence and existing illustration presented; continue one sentence at a time.
-- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`; `1.1 Classify value structure`; `1.2 Read higher-timeframe structure`; `1.3 Understand the gamma environment`.
-- Next subtopic: `Call wall — definition`.
-- Next topic after completion and confirmation: `1.5 Build scenarios before execution`.
+- Topic: `B. Trading process → 1. Environment — before the market opens → 1.5 Build scenarios before execution`
+- Current subtopic: `Prepare if/then scenarios before the open`
+- Status: In progress — concise explanation and existing illustration presented; awaiting learner confirmation.
+- Completed topics since restart: `Core idea`; `A.1 Market as an auction`; `A.2 Forced participation`; `A.3 Effort versus result`; `A.4 Different participants`; `1.1 Classify value structure`; `1.2 Read higher-timeframe structure`; `1.3 Understand the gamma environment`; `1.4 Mark GEX reference levels`.
+- Next topic after completion and confirmation: `2. Location — where do I want to do business? → 2.1 Follow the larger structure`.
 
 ## Implementation discussion carried forward
 
