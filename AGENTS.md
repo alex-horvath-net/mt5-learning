@@ -39,6 +39,10 @@ Current scope:
 - minimal EA compiles successfully
 - no trading behaviour implemented
 
+## Confirmed Strategy Decisions
+- The initial instrument to analyse is MNQ (Micro E-mini Nasdaq-100 futures).
+- The broker-specific MT5 symbol and contract expiry have not yet been selected.
+
 ## Working Style
 - Work in small increments.
 - Prefer the smallest useful change.
