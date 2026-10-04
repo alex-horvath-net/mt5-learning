@@ -2,10 +2,24 @@
 
 CLearningEA learningEA;
 
+input bool EnableDemoTrading = false;
+input bool EmergencySafetyShutdown = false;
+input double RiskPercentPerTrade = 0.0;
+input double MaximumDailyLossPercent = 0.0;
+input int MaximumTradesPerDay = 0;
+input int MaximumSpreadPoints = 0;
+input ulong StrategyMagicNumber = 90530001;
+
 int OnInit()
 {
-    learningEA.Initialize();
-    EventSetTimer(1);
+    learningEA.Initialize(EnableDemoTrading, EmergencySafetyShutdown,
+                          RiskPercentPerTrade, MaximumDailyLossPercent,
+                          MaximumTradesPerDay, MaximumSpreadPoints,
+                          StrategyMagicNumber);
+    if (!EventSetTimer(1))
+    {
+        PrintFormat("STRATEGY event=TIMER_SETUP_FAILED error=%d", GetLastError());
+    }
     return INIT_SUCCEEDED;
 }
 

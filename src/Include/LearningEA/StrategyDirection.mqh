@@ -1,0 +1,6 @@
+enum EStrategyDirection
+{
+    STRATEGY_DIRECTION_NONE = 0,
+    STRATEGY_DIRECTION_LONG = 1,
+    STRATEGY_DIRECTION_SHORT = -1
+};
