@@ -1,20 +1,26 @@
-#include <LearningEA/Strategy.mqh>
-#include <LearningEA/RiskManagement.mqh>
+#include "..\..\Include\LearningEA\LearningEAController.mqh"
 
-bool firstTickLogged = false;
+CLearningEA learningEA;
 
 int OnInit()
 {
-    firstTickLogged = false;
-    Print("LearningEA started");
+    learningEA.Initialize();
+    EventSetTimer(1);
     return INIT_SUCCEEDED;
 }
 
 void OnTick()
 {
-    if (!firstTickLogged)
-    {
-        Print("LearningEA received first tick");
-        firstTickLogged = true;
-    }
+    learningEA.ProcessIncomingTick();
+}
+
+void OnTimer()
+{
+    learningEA.ProcessTimerEvent();
+}
+
+void OnDeinit(const int reason)
+{
+    EventKillTimer();
+    learningEA.Shutdown();
 }

@@ -40,8 +40,13 @@ Current scope:
 - no trading behaviour implemented
 
 ## Confirmed Strategy Decisions
-- The initial instrument to analyse is MNQ (Micro E-mini Nasdaq-100 futures).
-- The broker-specific MT5 symbol and contract expiry have not yet been selected.
+- Chris's reference instrument is MNQ (Micro E-mini Nasdaq-100 futures).
+- The initial no-cost demo instrument is MetaQuotes-Demo's US500 (S&P 500 index CFD), which is available with historical M1, M5, and H1 price bars.
+- US500 is a price-data approximation for learning; it is not MNQ futures and the demo feed does not provide Chris's exchange order flow or options gamma data.
+
+## Current Demo Implementation
+- Higher-timeframe price context uses completed H1 and H4 bars. A swing is confirmed with two completed bars on each side; rising/falling requires both the latest swing high and low to rise/fall. Other combinations are mixed.
+- This price-structure label is an approximation; it does not calculate volume-profile value migration.
 
 ## Working Style
 - Work in small increments.
